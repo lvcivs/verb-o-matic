@@ -1,0 +1,16 @@
+τὸ ζῷον	das Lebewesen, das Tier	
+ἡ ψυχή	die Seele, das Leben	
+γάρ	denn, nämlich	nachgestellt
+τὸ φυτόν	die Pflanze	
+ὁ λόγος	die Erzählung, die Rede, der Ausspruch, die Kalkulation, die Abrechnung, die Begründung, die Argumentation, der Begriff	
+οὐδέν	nichts	
+ἄρα	also, folglich	
+ἐκ, ἐξ	aus, seit	
+ἥκω	kommen, gekommen sein, dasein	
+ἀλλά	aber, sondern	
+τὸ ἄστρον	der Stern, das Gestirn	
+ὁ ἥλιος	die Sonne	
+ἡ σελήνη	der Mond	
+Τὰ ζῷα ψυχὰς ἔχει.	Die Lebewesen haben Seelen.	R7: Subjekt im Pl. mit Prädikat im Sg.
+ἐκ τοῦ κόσμου	aus dem  Kosmos	R8: genetivus separativus
+Τοῖς ἄστροις ψυχαί εἰσιν.	Die Gestirne haben Seelen.	R9: dativus possessivus

@@ -1,0 +1,44 @@
+bonus a um	gut
+melior melius	besser
+optimus a um	am besten, der beste, sehr gut
+malus	schlecht
+peior peius	schlechter
+pessimus a um	am schlechtesten, der schlechteste, sehr schlecht
+magnus	gross
+maior maius	grösser
+maximus a um	am grössten, der grösste, sehr gross
+parvus	klein
+minor minus	kleiner
+minimus a um	am kleinsten, der kleinste, sehr klein
+horrere (+akk)	sich entsetzen vor, verabscheuen
+proferre	vorwärtstragen, herbeibringen
+ferreus a um	eisern
+nasci nascor natus sum	geboren werden, entstehen
+brevis e	kurz
+miserari miseror miseratus sum	beklagen, bejammern
+aetas aetatis f	Lebensalter, Zeitalter
+loqui loquor locutus sum	sprechen
+tutus a um	sicher
+sequi sequor secutus sum (+akk)	jmdm. folgen
+ferrum i n	Eisen
+uti utor usus sum (+abl)	gebrauchen, benutzen
+sanctus a um	heilig, unverletzlich, gewissenhaft
+donec	bis dass, solange wie
+vereri vereor veritus sum	fürchten, sich scheuen
+cupiditas cupiditatis f	Begierde, Trieb
+aurum i n	Gold
+crudelis e	grausam
+impellere 	treiben, antreiben
+vastare	verwüsten
+transire	überschreiten, hinüberfahren
+eo	um so, desto
+solus a um (ius i)	allein, als einziger
+par paris	gleich, gleichwertig
+auferre aufero abstuli ablatum	wegtragen, wegschleppen
+falsus a um	falsch
+solitudo solitudinis f	Einsamkeit, Einöde
+primum	zuerst, zum erstenmal
+multo maior	viel grösser
+signa proferre	vorrücken
+magis magisque	immer mehr
+ferro ignique	mit Feuer und Schwert

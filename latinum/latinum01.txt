@@ -1,0 +1,34 @@
+insula ae f	Insel
+esse sum fui	sein
+est	ist
+mercator is m	Kaufmann
+dominus i m	Herr
+servus i m	Sklave
+domina ae f	Herrin
+medicus i m	Arzt
+intrare	eintreten, betreten
+laborare	arbeiten
+non	nicht
+ludere ludo lusi lusum	spielen
+vocare	rufen, nennen
+quis?	wer?
+quem?	wen?
+videre video vidi visum	sehen
+ancilla ae f	Sklavin
+timere	fürchten
+morbus i m	Krankheit
+curare	behandeln, pflegen
+agricola ae m	Bauer
+murus i m	Mauer
+aedificare	bauen
+labor is m	Arbeit, Mühe
+amare	lieben
+quaerere quaero quasivi quasitum	suchen, fragen, fragen nach
+ubi	wo?, wo
+ad (+akk)	zu, bei
+in (+akk)	in hinein, nach
+circa (+akk)	um herum
+per (+akk)	durch, hindurch
+equus i m	Pferd
+aula ae f	Hof
+currere curro cucurri cursum	laufen

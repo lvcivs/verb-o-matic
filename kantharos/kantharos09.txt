@@ -1,0 +1,38 @@
+τὸ ἐγκώμιον	die Lobrede, die Verherrlichung	
+τίς; τί;	wer?, was?, welcher?, welche?, welches?	
+ἄξιος, α, ον	wert, würdig	
+ἄξιος ἐπαίνου	(des) Lobes wert, lobenswert	
+ἤ	als	nach Komparation
+ἀξιώτερος ἤ	würdiger als	
+ἡ νίκη	der Sieg	
+τε ... καί	sowohl ... als auch	
+λαμπρός, ά, όν	glänzend, hell	
+ἔνδοξος, ον	berühmt, allgemein anerkannt	
+σέβομαι	sich scheuen, jmdn verehren	
+ὥστε	so dass	
+πολέμιος, α, ον	feindlich	
+ὁ πολέμιος	der Feind	
+ἐκεῖνος, η, ο	der dort, jener	
+ἐκείνη ἡ κώμη	das Dorf dort, jenes Dorf	
+ὁ ὅρκος	der Eid	
+πιστός, ή, όν	vertrauenswürdig, treu, zuverlässig	
+δυνατός, ή, όν	mächtig, fähig, möglich	
+πρόθυμος, ον	bereitwillig, eifrig	
+ἀσπάζομαι	jmdn begrüssen, jmdn schätzen	
+δίκαιος, α, ον	gerecht	
+πλούσιος, α, ον	reich	
+ποιέω	tun, machen	
+ἡ ἀδικία	das Unrecht	
+ὠφέλιμος, ον	nützlich	
+πρᾶος, ον	freundlich, mild, human	
+ἐχθρός, ά, όν	verhasst, feindlich	
+ὁ ἐχθρός	der Feind	
+φοβερός, ά, όν	furchtbar, furchtsam	
+καταφρονέω	verachten	
+καταφρονέω τῶν πολεμίων	ich verachte die Feinde	
+μέτριος, α, ον	massvoll, ausgewogen	
+ταπεινός, ή, όν	niedrig, demütig, bescheiden	
+῾Η δικαιοσύνη τῆς ἀδικίας ὠφελιμωτέρα ἐστίν.	Die Gerechtigkeit ist nützlicher als die Ungerechtigkeit.	R31: genetivus comparationis
+οἱ πιστότατοι φίλοι	die zuverlässigsten Freunde	R32: Superlativ - mit Artikel
+πιστότατοι φίλοι	sehr zuverlässige Freunde, äusserst zuverlässige Freunde	R33: Elativ - meist ohne Artikel
+᾽Αγησίλαος δικαιότατος ἦν.	Agesilaos war der gerechteste., Agesilaos war sehr gerecht., Agesilaos war äusserst gerecht.	

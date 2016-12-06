@@ -1,0 +1,29 @@
+θάπτω	bestatten, begraben	
+ἄταφος, ον	unbestattet	
+κηρύττω	bekanntgeben, bekanntmachen	
+ἀπειλέω	drohen, prahlerisch ankündigen	
+οὗτος, αὕτη, τοῦτο	dieser, diese, dieses	Demonstrativ
+ἡ ἀδελφή	die Schwester	
+λανθάνω	verborgen sein	Person im Akkusativ
+τοὺς φύλακας λαθών	vor den Wächtern verborgen, heimlich vor den Wächtern	
+δράω	tun, handeln	
+ἐξευρίσκω	ausfindig machen	
+αἱρέω	nehmen, ergreifen, fangen	
+ἀφαιρέω	wegnehmen	
+ἥττων, ον	schwächer, unterlegen	
+οὐδὲν ἧττον	trotzdem, nichtsdestoweniger	
+ἐπέρχομαι	hinauskommen, heraustreten, herankommen, jmdn angreifen	
+γυμνός, ή, όν	nackt, leicht bekleidet, unbewaffnet	
+ὁ νεκρός	der Leichnam	
+ἑαυτοῦ, ῆς	seiner	refl. Personalpronomen; Gen.
+ἑαυτῷ, ῇ	sich	refl. Personalpronomen; Dat.
+ἑαυτόν, ήν	sich	refl. Personalpronomen; Akk.
+ζήω	leben	
+καταβάλλω	niederwerfen, hinabwerfen	
+ὁ υἱός	der Sohn	
+ἀγανακτέω	sich ärgern, ungehalten sein	
+τὸ τέλος	endlich	
+τέλος	endlich	
+Οἷς ἀπειλεῖ θάνατον ὁ Κρέων.	Diesen droht Kreon die Todesstrafe an.	R65: relativischer Anschluss
+῾Ο στρατιώτης τρέχει ἐπὶ τὴν σκηνὴν αὐτοῦ.	Der Soldat läuft zum Zelt eines anderen.	R66a: nicht-reflexiv
+῾Ο στρατιώτης τρέχει ἐπὶ τὴν ἑαυτοῦ σκηνήν.	Der Soldat läuft zu seinem (eigenen) Zelt.	R66b: reflexiv

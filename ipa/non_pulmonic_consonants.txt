@@ -1,0 +1,14 @@
+ʘ	bilabial fricated click	ǂHõã (no example)	http://en.wikipedia.org/wiki/Bilabial_click	http://upload.wikimedia.org/wikipedia/en/5/51/Con-58b.wav
+ǀ	laminal alveolar fricated (&quot;dental&quot;) click	Zulu and Xhosa (no example)	http://en.wikipedia.org/wiki/Dental_click	Dental_click.ogg
+ǃ	apical (post-)alveolar abrupt (&quot;retroflex&quot;) click	Zulu <i>iqaqa</i> [iːˈǃaːǃa] 'polecat'	http://en.wikipedia.org/wiki/Postalveolar_click	Postalveolar_click.ogg
+ǂ	laminal postalveolar abrupt (&quot;palatal&quot;) click	(no example)	http://en.wikipedia.org/wiki/Palatal_click	Palatoalveolar_click.ogg
+ǁ	lateral alveolar fricated (&quot;lateral&quot;) click	Zulu <i>xoxa</i> [ˈǁɔ:ǁa] 'to converse'	http://en.wikipedia.org/wiki/Alveolar_lateral_click	Alveolar_lateral_click.ogg
+ɓ	bilabial voiced implosive	Zulu <i>ubaba</i> [uˈɓaːɓa] 'my father'	http://en.wikipedia.org/wiki/Voiced_bilabial_implosive	Voiced_bilabial_implosive.ogg
+ɗ	dental/alveolar voiced implosive	Hausa <i>ɗaiɗai</i> [ɗe̯iɗe̯i] 'one at a time'	http://en.wikipedia.org/wiki/Voiced_alveolar_implosive	Voiced_alveolar_implosive.ogg
+ʄ	palatal voiced implosive	Swahili <i>jana</i> [ʄana] 'yesterday'	http://en.wikipedia.org/wiki/Voiced_palatal_implosive	Voiced_palatal_implosive.ogg
+ɠ	velar voiced implosive	Zulu <i>ukuza</i> [uˈɠuːza] 'to come'	http://en.wikipedia.org/wiki/Voiced_velar_implosive	Voiced_velar_implosive.ogg
+ʛ	uvular voiced implosive	Mam <i>q'a</i> [ʛa] 'fire'	http://en.wikipedia.org/wiki/Voiced_uvular_implosive	Voiced_uvular_implosive.ogg
+pʼ	bilabial ejective	Quechua (no example)	http://en.wikipedia.org/wiki/Bilabial_ejective	Bilabial_ejective_plosive.ogg
+tʼ	dental/alveolar ejective	most Caucasian languages (no example)	http://en.wikipedia.org/wiki/Alveolar_ejective	Alveolar_ejective_plosive.ogg
+kʼ	velar ejective	Hausa <i>ƙoƙari</i> [kʼo:kʼɐɾi] 'effort'	http://en.wikipedia.org/wiki/Velar_ejective	Velar_ejective_plosive.ogg
+sʼ	alveolar fricated ejective	(no example)	http://en.wikipedia.org/wiki/Alveolar_ejective_fricative	Alveolar_ejective_fricative.ogg

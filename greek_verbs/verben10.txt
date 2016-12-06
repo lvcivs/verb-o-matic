@@ -1,0 +1,42 @@
+τίθημι	1. pers. sg. pres. ind. act.	τίθημι ‘setzen, stellen, legen’
+τίθης	2. pers. sg. pres. ind. act.	τίθημι ‘setzen, stellen, legen’
+τίθησι(ν)	3. pers. sg. pres. ind. act.	τίθημι ‘setzen, stellen, legen’
+τίθεμεν	1. pers. pl. pres. ind. act.	τίθημι ‘setzen, stellen, legen’
+τίθετε	2. pers. pl. pres. ind. act., 2. pers. pl. pres. imp. act.	τίθημι ‘setzen, stellen, legen’
+τιθέασι(ν)	3. pers. pl. pres. ind. act.	τίθημι ‘setzen, stellen, legen’
+τιθῶ	1. pers. sg. pres. conj. act.	τίθημι ‘setzen, stellen, legen’
+τιθῇς	2. pers. sg. pres. conj. act.	τίθημι ‘setzen, stellen, legen’
+τιθῇ	3. pers. sg. pres. conj. act., 2. pers. sg. pres. conj. med-pass.	τίθημι ‘setzen, stellen, legen’
+τιθῶμεν	1. pers. pl. pres. conj. act.	τίθημι ‘setzen, stellen, legen’
+τιθῆτε	2. pers. pl. pres. conj. act.	τίθημι ‘setzen, stellen, legen’
+τιθῶσι(ν)	3. pers. pl. pres. conj. act.	τίθημι ‘setzen, stellen, legen’
+τιθείην	1. pers. sg. pres. opt. act.	τίθημι ‘setzen, stellen, legen’
+τιθείης	2. pers. sg. pres. opt. act.	τίθημι ‘setzen, stellen, legen’
+τιθείη	3. pers. sg. pres. opt. act.	τίθημι ‘setzen, stellen, legen’
+τιθεῖμεν	1. pers. pl. pres. opt. act.	τίθημι ‘setzen, stellen, legen’
+τιθεῖτε	2. pers. pl. pres. opt. act.	τίθημι ‘setzen, stellen, legen’
+τιθεῖεν	3. pers. pl. pres. opt. act.	τίθημι ‘setzen, stellen, legen’
+τίθει	2. pers. sg. pres. imp. act.	τίθημι ‘setzen, stellen, legen’
+τιθέναι	inf. pres. act.	τίθημι ‘setzen, stellen, legen’
+τιθείς	part. pres. act. nom. sg. m.	τίθημι ‘setzen, stellen, legen’
+τιθέντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	τίθημι ‘setzen, stellen, legen’
+τιθεῖσα	part. pres. act. nom. sg. f.	τίθημι ‘setzen, stellen, legen’
+τιθείσης	part. pres. act. gen. sg. f.	τίθημι ‘setzen, stellen, legen’
+τιθέν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	τίθημι ‘setzen, stellen, legen’
+τίθεμαι	1. pers. sg. pres. ind. med-pass.	τίθημι ‘setzen, stellen, legen’
+τίθεσαι	2. pers. sg. pres. ind. med-pass.	τίθημι ‘setzen, stellen, legen’
+τιθῶμαι	1. pers. sg. pres. conj. med-pass.	τίθημι ‘setzen, stellen, legen’
+τιθῆται	3. pers. sg. pres. conj. med-pass.	τίθημι ‘setzen, stellen, legen’
+τιθείμην	1. pers. sg. pres. opt. med-pass.	τίθημι ‘setzen, stellen, legen’
+τιθεῖο	2. pers. sg. pres. opt. med-pass.	τίθημι ‘setzen, stellen, legen’
+τιθεῖτο	3. pers. sg. pres. opt. med-pass.	τίθημι ‘setzen, stellen, legen’
+τίθεσο	2. pers. sg. pres. imp. med-pass.	τίθημι ‘setzen, stellen, legen’
+τίθεσθε	2. pers. pl. pres. imp. med-pass., 2. pers. pl. pres. ind. med-pass.	τίθημι ‘setzen, stellen, legen’
+τίθεσθαι	inf. pres. med-pass.	τίθημι ‘setzen, stellen, legen’
+τιθέμενος	part. pres. med-pass. nom. sg. m.	τίθημι ‘setzen, stellen, legen’
+ἔθηκα	1. pers. sg. aor. ind. act.	τίθημι ‘setzen, stellen, legen’
+ἔθηκας	2. pers. sg. aor. ind. act.	τίθημι ‘setzen, stellen, legen’
+ἔθηκε(ν)	3. pers. sg. aor. ind. act.	τίθημι ‘setzen, stellen, legen’
+ἔθεμεν	1. pers. pl. aor. ind. act.	τίθημι ‘setzen, stellen, legen’
+ἔθετε	2. pers. pl. aor. ind. act.	τίθημι ‘setzen, stellen, legen’
+ἔθεσαν	3. pers. pl. aor. ind. act.	τίθημι ‘setzen, stellen, legen’

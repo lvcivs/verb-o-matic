@@ -1,0 +1,15 @@
+̋e / e˥	top level tone		http://en.wikipedia.org/wiki/Tone_letter	
+é / e˦	high level tone		http://en.wikipedia.org/wiki/Tone_letter	
+ē / e˧	mid level tone		http://en.wikipedia.org/wiki/Tone_letter	
+è / e˨	low level tone		http://en.wikipedia.org/wiki/Tone_letter	
+ȅ / e˩	bottom level tone		http://en.wikipedia.org/wiki/Tone_letter	
+ꜛ	upstep tone terracing		http://en.wikipedia.org/wiki/Upstep_(phonetics)	
+ꜜ	downstep tone terracing		http://en.wikipedia.org/wiki/Downstep_(phonetics)	
+ě	rising contour-tone		http://en.wikipedia.org/wiki/Tone_letter	
+ê	falling contour-tone		http://en.wikipedia.org/wiki/Tone_letter	
+ɔ᷄ / ɔ˧˥	high rising contour-tone		http://en.wikipedia.org/wiki/Tone_letter	
+ɔ᷅ / ɔ˩˧	low rising contour-tone		http://en.wikipedia.org/wiki/Tone_letter	
+ɔ᷇ / ɔ˥˧	high falling contour-tone		http://en.wikipedia.org/wiki/Tone_letter	
+ɔ᷆ / ɔ˧˩	low falling contour-tone		http://en.wikipedia.org/wiki/Tone_letter	
+ɔ᷈ / ɔ˧˥˧	peaking contour-tone		http://en.wikipedia.org/wiki/Tone_letter	
+ɔ᷉ / ɔ˧˩˧	dipping contour-tone		http://en.wikipedia.org/wiki/Tone_letter	

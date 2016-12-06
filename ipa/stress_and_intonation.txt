@@ -1,0 +1,11 @@
+'a	primary stress		http://en.wikipedia.org/wiki/Lexical_stress	
+''a	extra stress		http://en.wikipedia.org/wiki/Lexical_stress	
+ˌa	secondary stress		http://en.wikipedia.org/wiki/Lexical_stress	
+aː	long sound		http://en.wikipedia.org/wiki/Length_(phonetics)	
+aˑ	half-long sound		http://en.wikipedia.org/wiki/Length_(phonetics)	
+ə̆	extra-short sound		http://en.wikipedia.org/wiki/Extra-short_(phonetics)	
+a.a	syllable break		http://en.wikipedia.org/wiki/Extra-short_(phonetics)	
+|	minor (foot) break		http://en.wikipedia.org/wiki/Prosody_(linguistics)	
+‖	major (intonation) break		http://en.wikipedia.org/wiki/Prosody_(linguistics)	
+↗	global rise		http://en.wikipedia.org/wiki/Intonation_(linguistics)#Transcription	
+↘	global fall		http://en.wikipedia.org/wiki/Intonation_(linguistics)#Transcription	

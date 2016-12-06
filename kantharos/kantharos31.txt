@@ -1,0 +1,23 @@
+εἷς, μία, ἕν	einer, eine, eines	Zahlwort
+οὐδείς, οὐδεμία, οὐδέν	keiner, keine, keines	
+μηδείς, μηδεμία, μηδέν	keiner, keine, keines	
+πώποτε	jemals	
+συγχωρέω	jmdm etw zugestehen, jmdm etw erlauben, mit jmdm etw vereinbaren	
+παρά	zu ... hin, entlang an, gegen	
+παρὰ τὸν ποταμόν	den Fluss entlang	
+παρὰ τοὺς νόμους	gegen die Gesetze, gesetzwidrig	
+διαβάλλω	verleumden	
+φασίν	sie sagen	enklit.
+ὁ μαθητής	der Lernende, der Schüler, der Student, (NT:) der Jünger	
+ὁ διδάσκαλος	der Lehrer	
+ἐμαυτοῦ, ῆς	mein(er)	refl. Personalpronomen; Gen.
+ἐμαυτῷ, ῇ	mir	refl. Personalpronomen; Dat.
+ἐμαυτόν, ήν	mich	refl. Personalpronomen; Akk.
+φθονέω	jmdn beneiden, jmdm etw vorenthalten, jmdm etw missgönnen, etw nur widerwillig tun od. geben	1.: mit Dativ   2.: mit Genitiv
+οὐδενὶ φθονέω	ich beneide keinen	
+πένης	arm	
+πράγματα παρέχω	Schwierigkeiten machen	
+ἡ αἰτία	die Schuld, die Ursache, die Beschuldigung	
+σεαυτοῦ, ῆς	dein(er)	refl. Personalpronomen; Gen.
+Οὐδενὶ πώποτε συνεχώρησα οὐδέν.	Ich habe niemand jemals etw zugestanden.	R79
+Οὐδὲ χρήματα μὲν λαμβάνων διαλέγομαι, μὴ λαμβάνων δὲ οὔ.	Und es ist nicht so## dass ich mich nur unterhalte## wenn ich Geld bekomme## wenn ich keins bekomme aber nicht.	R80

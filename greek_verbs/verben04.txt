@@ -1,0 +1,22 @@
+πεπαίδευκα	1. pers. sg. perf. ind. act.	παιδεύω ‘erziehen’
+πεπαίδευκας	2. pers. sg. perf. ind. act.	παιδεύω ‘erziehen’
+πεπαίδευκε(ν)	3. pers. sg. perf. ind. act.	παιδεύω ‘erziehen’
+πεπαιδεύκαμεν	1. pers. pl. perf. ind. act.	παιδεύω ‘erziehen’
+πεπαιδεύκατε	2. pers. pl. perf. ind. act.	παιδεύω ‘erziehen’
+πεπαιδεύκασιν	3. pers. pl. perf. ind. act.	παιδεύω ‘erziehen’
+πεπαίδευμαι	1. pers. sg. perf. ind. med-pass.	παιδεύω ‘erziehen’
+πεπαίδευσαι	2. pers. sg. perf. ind. med-pass.	παιδεύω ‘erziehen’
+πεπαίδευται	3. pers. sg. perf. ind. med-pass.	παιδεύω ‘erziehen’
+πεπαιδεύμεθα	1. pers. pl. perf. ind. med-pass.	παιδεύω ‘erziehen’
+πεπαίδευσθε	2. pers. pl. perf. ind. med-pass.	παιδεύω ‘erziehen’
+πεπαίδευνται	3. pers. pl. perf. ind. med-pass.	παιδεύω ‘erziehen’
+πεπαιδευκέναι	inf. perf. act.	παιδεύω ‘erziehen’
+πεπαιδεῦσθαι	inf. perf. med-pass.	παιδεύω ‘erziehen’
+πεπαιδευκώς	part. perf. act. nom. sg. m.	παιδεύω ‘erziehen’
+πεπαιδευκότος	part. perf. act. gen. sg. m., part. perf. act. gen. sg. n.	παιδεύω ‘erziehen’
+πεπαιδευκυῖα	part. perf. act. nom. sg. f.	παιδεύω ‘erziehen’
+πεπαιδευκυίας	part. perf. act. gen. sg. f.	παιδεύω ‘erziehen’
+πεπαιδευκός	part. perf. act. nom. sg. n.	παιδεύω ‘erziehen’
+πεπαιδευμένος	part. perf. med-pass. nom. sg. m.	παιδεύω ‘erziehen’
+πεπαιδευμένη	part. perf. med-pass. nom. sg. f.	παιδεύω ‘erziehen’
+πεπαιδευμένον	part. perf. med-pass. nom. sg. n.	παιδεύω ‘erziehen’

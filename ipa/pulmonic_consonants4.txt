@@ -1,0 +1,16 @@
+ʐ	voiced retroflex fricative	Swedish (Stockholm) <i>röd</i> [ʐøː]	http://en.wikipedia.org/wiki/Voiced_retroflex_fricative	Voiced_retroflex_fricative.ogg
+ʁ	voiced uvular fricative/approximant	French <i>rester</i> [ʁɛste] 'to stay'	http://en.wikipedia.org/wiki/Voiced_uvular_fricative	Voiced_uvular_fricative.ogg
+ɢ	voiced uvular plosive	Persian غذا [ɢæˈzɒ] 'food'	http://en.wikipedia.org/wiki/Voiced_uvular_plosive	Voiced_uvular_plosive.ogg
+ɣ	voiced velar fricative	Dutch <i>gaan</i> [ɣaːn] 'to go'	http://en.wikipedia.org/wiki/Voiced_velar_fricative	Voiced_velar_fricative.ogg
+ɡ	voiced velar plosive	English <i>gash</i> [ˈɡæʃ] 'gash'	http://en.wikipedia.org/wiki/Voiced_velar_plosive	Voiced_velar_plosive.ogg
+ɬ	voiceless alveolar lateral fricative	Welsh <i>llwyd</i> [ɬʊɪd] 'grey'	http://en.wikipedia.org/wiki/Voiceless_alveolar_lateral_fricative	Voiceless_lateral_fricative.ogg
+ɸ	voiceless bilabial fricative	Spanish (Andalusian) <i>los viejos</i> [lɔh ɸjɛhɔ] 'the old ones'	http://en.wikipedia.org/wiki/Voiceless_bilabial_fricative	Voiceless_bilabial_fricative.ogg
+ʜ	voiceless epiglottal fricative	Agul [mɛʜ] 'whey'	http://en.wikipedia.org/wiki/Voiceless_epiglottal_fricative	http://upload.wikimedia.org/wikipedia/en/d/d0/Con-75b.wav
+ʃ	voiceless postalveolar fricative	English <i>sheep</i> [ʃiːp] 'sheep'	http://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative	Voiceless_postalveolar_fricative.ogg
+ʂ	voiceless retroflex fricative	Norwegian <i>forsamling</i> [fɔʂɑmːlɪŋ] 'meeting/gathering'	http://en.wikipedia.org/wiki/Voiceless_retroflex_fricative	Voiceless_retroflex_fricative.ogg
+ʈ	voiceless retroflex plosive	Norwegian <i>kort</i> [kɔʈː] 'card'	http://en.wikipedia.org/wiki/Voiceless_retroflex_plosive	Voiceless_retroflex_plosive.ogg
+v	voiced labiodental fricative	English <i>valve</i> [væɫv] 'valve'	http://en.wikipedia.org/wiki/Voiced_labiodental_fricative	Voiced_labiodental_fricative.ogg
+x	voiceless velar fricative	German <i>Kuchen</i> [kuːxən] 'cake'	http://en.wikipedia.org/wiki/Voiceless_velar_fricative	Voiceless_velar_fricative.ogg
+z	voiced alveolar fricative	English <i>size</i> [saɪz] 'size'	http://en.wikipedia.org/wiki/Voiced_alveolar_fricative	Voiced_alveolar_fricative.ogg
+ʒ	voiced postalveolar fricative	English <i>vision</i> [ˈvɪʒən] 'vision'	http://en.wikipedia.org/wiki/Voiced_postalveolar_fricative	Voiced_postalveolar_fricative.ogg
+β	voiced bilabial fricative	Spanish <i>lava</i> [ˈla̞βa] 'lava'	http://en.wikipedia.org/wiki/Voiced_bilabial_fricative	Voiced_bilabial_fricative.ogg

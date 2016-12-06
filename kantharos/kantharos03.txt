@@ -1,0 +1,21 @@
+μάλιστα	am meisten	
+τὸ ἀγαθόν	das Gute, das Erfreuliche, das Richtige, der Wert	
+ἡ ἀρετή	die Tüchtigkeit, die Tugend, die Tapferkeit	
+εἶναι	(zu) sein	
+μέν ... δέ	(zwar) ... aber	
+ὁ μέν ... ὁ δέ	der eine ... der andere	
+οὐ, οὐκ, οὐχ	nicht	
+ἡ σωφροσύνη	die Besonnenheit, die Verständigkeit, die Selbstbeherrschung	
+οὖν	also, folglich	
+ἡ δικαιοσύνη	die Gerechtigkeit	
+ἡ ἀνδρεία	die Tapferkeit	
+ἡ ῥώμη	die Kraft, die Stärke	
+ἡ χαρά	die Freude	
+ἡ ἐπιστήμη	das Verständnis, das Wissen, die Erkenntnis	
+ἡ τέχνη	das fachliche Können, das Handwerk, das handwerkliche Können, das Können, die Kunst	
+κατά	gemäss, entsprechend	
+κατὰ τοὺς Στωικούς	nach Meinung der Stoiker	
+οὔτε ... οὔτε	weder ... noch	
+Σωφροσύνην καὶ δικαιοσύνην ἀρετὰς εἶναι νομίζουσιν.	Sie glauben## dass Besonnenheit und Gerechtigkeit Tugenden seien (sind).	R10: AcI
+τῶν δ᾽ἀρετῶν	von den Tugenden aber	R12: Elision
+εἷς τῶν ἑπτὰ σοφῶν	einer der sieben Weisen, einer von den sieben Weisen	R13: genetivus partitivus

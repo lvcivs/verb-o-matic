@@ -1,0 +1,12 @@
+t̪ d̪	dental articulation		http://en.wikipedia.org/wiki/Dental_consonant	
+t̺ d̺	apical articulation		http://en.wikipedia.org/wiki/Apical_consonant	
+t̻ d̻	laminal articulation		http://en.wikipedia.org/wiki/Laminal_consonant	
+u̟ t̟	advanced articulation		http://en.wikipedia.org/wiki/Advanced_(phonetics)	
+i̠ t̠	retracted articulation		http://en.wikipedia.org/wiki/Retracted_(phonetics)	
+tʷ dʷ	labialized co-articulation		http://en.wikipedia.org/wiki/Labialized	
+tʲ dʲ	palatalized co-articulation		http://en.wikipedia.org/wiki/Palatalization	
+tˠ dˠ	velarized co-articulation		http://en.wikipedia.org/wiki/Velarization	
+tˁ aˁ	pharyngealized co-articulation		http://en.wikipedia.org/wiki/Pharyngealization	
+ɫ z̴	velarized or pharyngealized co-articulation		http://en.wikipedia.org/wiki/Velarized_alveolar_lateral_approximant	
+ɔ̹ x̹	more rounded co-articulation		http://en.wikipedia.org/wiki/Roundedness	
+ɔ̜ x̜ʷ	less rounded co-articulation		http://en.wikipedia.org/wiki/Roundedness	

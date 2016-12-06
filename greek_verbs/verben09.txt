@@ -1,0 +1,43 @@
+δῶμεν	1. pers. pl. aor. subj. act.	δίδωμι ‘geben’
+δόμενος	part. aor. med. nom. sg. m.	δίδωμι ‘geben’
+ἐδόμην	1. pers. sg. aor. ind. med.	δίδωμι ‘geben’
+δόν	part. aor. act. nom. sg. n.	δίδωμι ‘geben’
+δῶνται	3. pers. pl. aor. subj. med.	δίδωμι ‘geben’
+δόντος	part. aor. act. gen. sg. m., part. aor. act. gen. sg. n.	δίδωμι ‘geben’
+δοῦ	2. pers. sg. aor. imp. med.	δίδωμι ‘geben’
+δοῖεν	3. pers. pl. aor. opt. act.	δίδωμι ‘geben’
+δοίη	3. pers. sg. aor. opt. act.	δίδωμι ‘geben’
+δοίην	1. pers. sg. aor. opt. act.	δίδωμι ‘geben’
+δοίης	2. pers. sg. aor. opt. act.	δίδωμι ‘geben’
+δοίμεθα	1. pers. pl. aor. opt. med.	δίδωμι ‘geben’
+ἔδομεν	1. pers. pl. aor. ind. act.	δίδωμι ‘geben’
+δοῖμεν	1. pers. pl. aor. opt. act.	δίδωμι ‘geben’
+δοίμην	1. pers. sg. aor. opt. med.	δίδωμι ‘geben’
+δοῦναι	inf. aor. act.	δίδωμι ‘geben’
+ἔδοντο	3. pers. pl. aor. ind. med.	δίδωμι ‘geben’
+δοῖντο	3. pers. pl. aor. opt. med.	δίδωμι ‘geben’
+δοῖο	2. pers. sg. aor. opt. med.	δίδωμι ‘geben’
+δούς	part. aor. act. nom. sg. m.	δίδωμι ‘geben’
+δοῦσα	part. aor. act. nom. sg. f.	δίδωμι ‘geben’
+ἔδοσαν	3. pers. pl. aor. ind. act.	δίδωμι ‘geben’
+δούσης	part. aor. act. gen. sg. f.	δίδωμι ‘geben’
+ἔδοσθε	2. pers. pl. aor. ind. med.	δίδωμι ‘geben’
+δοῖσθε	2. pers. pl. aor. opt. med.	δίδωμι ‘geben’
+ἔδοτε	2. pers. pl. aor. ind. act.	δίδωμι ‘geben’
+δοῖτε	2. pers. pl. aor. opt. act.	δίδωμι ‘geben’
+ἔδοτο	3. pers. sg. aor. ind. med.	δίδωμι ‘geben’
+δοῖτο	3. pers. sg. aor. opt. med.	δίδωμι ‘geben’
+ἔδου	2. pers. sg. aor. ind. med.	δίδωμι ‘geben’
+δῷς	2. pers. sg. aor. subj. act.	δίδωμι ‘geben’
+δός	2. pers. sg. aor. imp. act.	δίδωμι ‘geben’
+δόσθαι	inf. aor. med.	δίδωμι ‘geben’
+δῶσθε	2. pers. pl. aor. subj. med.	δίδωμι ‘geben’
+δόσθε	2. pers. pl. aor. imp. med.	δίδωμι ‘geben’
+δῶσι(ν)	3. pers. pl. aor. subj. act.	δίδωμι ‘geben’
+δώσω	1. pers. sg. fut. ind. act.	δίδωμι ‘geben’
+δῶται	3. pers. sg. aor. subj. med.	δίδωμι ‘geben’
+δῶτε	2. pers. pl. aor. subj. act.	δίδωμι ‘geben’
+δότε	2. pers. pl. aor. imp. act.	δίδωμι ‘geben’
+ἔδωκα	1. pers. sg. aor. ind. act.	δίδωμι ‘geben’
+ἔδωκας	2. pers. sg. aor. ind. act.	δίδωμι ‘geben’
+ἔδωκε(ν)	3. pers. sg. aor. ind. act.	δίδωμι ‘geben’

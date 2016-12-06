@@ -1,0 +1,15 @@
+j	palatal approximant	English <i>you</i> [juː] 'you'	http://en.wikipedia.org/wiki/Palatal_approximant	Palatal_approximant.ogg
+k	voiceless velar plosive	English <i>kiss</i> [kʰɪs] 'kiss'	http://en.wikipedia.org/wiki/Voiceless_velar_plosive	Voiceless_velar_plosive.ogg
+ʋ	labiodental approximant	Dutch <i>wang</i> [ʋɑŋ] 'cheek'	http://en.wikipedia.org/wiki/Labiodental_approximant	Labiodental_approximant.ogg
+ɱ	labiodental nasal	English <i>symphony</i> [ˈsɪɱfəni] 'symphony'	http://en.wikipedia.org/wiki/Labiodental_nasal	Labiodental_nasal.ogg
+ⱱ	labiodental tap/flap	Sika [ѵoːtɛr] 'ich stecke einen Pfahl in den Boden'	http://en.wikipedia.org/wiki/Labiodental_flap	Labiodental_flap.ogg
+l	alveolar lateral approximant	English <i>let</i> [lɛt] 'let'	http://en.wikipedia.org/wiki/Alveolar_lateral_approximant	Alveolar_lateral_approximant.ogg
+m	bilabial nasal	English <i>him</i> [hɪm] 'him'	http://en.wikipedia.org/wiki/Bilabial_nasal	Bilabial_nasal.ogg
+n	alveolar nasal	English <i>nice</i> [naɪs] 'nice'	http://en.wikipedia.org/wiki/Alveolar_nasal	Alveolar_nasal.ogg
+ŋ	velar nasal	English <i>sing</i> [sɪŋ] 'sing'	http://en.wikipedia.org/wiki/Velar_nasal	Velar_nasal.ogg
+ʎ	palatal lateral approximant	Portuguese <i>olho</i> [ˈoʎu] 'eye'	http://en.wikipedia.org/wiki/Palatal_lateral_approximant	Palatal_lateral_approximant_%28corrected%29.ogg
+ɲ	palatal nasal	Spanish <i>enseñar</i> [̞ẽns̞eˈɲar] 'to teach'	http://en.wikipedia.org/wiki/Palatal_nasal	Palatal_nasal.ogg
+p	voiceless bilabial plosive	English <i>pack</i> [pʰæk] 'pack'	http://en.wikipedia.org/wiki/Voiceless_bilabial_plosive	Voiceless_bilabial_plosive.ogg
+q	voiceless uvular plosive	Quechua <i>qallu</i> [qaʎu] 'tongue'	http://en.wikipedia.org/wiki/Voiceless_uvular_plosive	Voiceless_uvular_plosive.ogg
+r	alveolar trill	Spanish <i>perro</i> [ˈp̞er̞o] 'dog'	http://en.wikipedia.org/wiki/Alveolar_trill	Alveolar_trill.ogg
+ɻ	retroflex approximant	Chinese Mandarin 肉/ròu [ɻo̯u˥˩] 'meat'	http://en.wikipedia.org/wiki/Retroflex_approximant	Retroflex_approximant.ogg

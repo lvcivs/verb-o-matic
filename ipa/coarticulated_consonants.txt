@@ -1,0 +1,6 @@
+ʍ 	voiceless labialized velar approximant	Scottish English <i>whine</i> [ʍʌɪn] 'whine'	http://en.wikipedia.org/wiki/Voiceless_labio-velar_approximant	Voiceless_labio-velar_fricative.ogg
+w 	voiced labialized velar approximant	English <i>weep</i> [wiːp] 'weep'	http://en.wikipedia.org/wiki/Labial-velar_approximant	Voiced_labio-velar_approximant.ogg
+ɥ 	voiced labialized palatal approximant	French <i>bonne nuit</i> [bɔnnɥi] 'good night'	http://en.wikipedia.org/wiki/Labial-palatal_approximant	http://upload.wikimedia.org/wikipedia/en/2/2b/Con-74b.wav
+ɕ 	voiceless palatalized postalveolar fricative	Swedish <i>kjol</i> [ɕuːl] 'skirt'	http://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative	Voiceless_alveolo-palatal_fricative.ogg
+ʑ 	voiced palatalized postalveolar fricative	Russian (most speakers) езжу [ˈjeʑːu] 'I drive'	http://en.wikipedia.org/wiki/Voiced_alveolo-palatal_fricative	Voiced_alveolo-palatal_fricative.ogg
+ɧ 	voiceless &quot;palatal-velar&quot; fricative	Swedish (certain dialects) [no example]	http://en.wikipedia.org/wiki/Voiceless_palatal-velar_fricative	Voiceless_dorso-palatal_velar_fricative.ogg

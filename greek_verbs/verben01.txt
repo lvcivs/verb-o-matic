@@ -1,0 +1,12 @@
+παιδεύω	1. pers. sg. pres. ind. act.	παιδεύω ‘erziehen’
+παιδεύεις	2. pers. sg. pres. ind. act.	παιδεύω ‘erziehen’
+παιδεύει	3. pers. sg. pres. ind. act.	παιδεύω ‘erziehen’
+παιδεύομεν	1. pers. pl. pres. ind. act.	παιδεύω ‘erziehen’
+παιδεύετε	2. pers. pl. pres. ind. act., 2. pers. pl. pres. imp. act.	παιδεύω ‘erziehen’
+παιδεύουσι	3. pers. pl. pres. ind. act., part. pres. act. dat. pl. m., part. pres. act. dat. pl. n.	παιδεύω ‘erziehen’
+παιδεύομαι	1. pers. sg. pres. ind. med-pass.	παιδεύω ‘erziehen’
+παιδεύῃ	2. pers. sg. pres. ind. med-pass.	παιδεύω ‘erziehen’
+παιδεύεται	3. pers. sg. pres. ind. med-pass.	παιδεύω ‘erziehen’
+παιδευόμεθα	1. pers. pl. pres. ind. med-pass.	παιδεύω ‘erziehen’
+παιδεύεσθε	2. pers. pl. pres. ind. med-pass., 2. pers. pl. pres. imp. med-pass.	παιδεύω ‘erziehen’
+παιδεύονται	3. pers. pl. pres. ind. med-pass.	παιδεύω ‘erziehen’

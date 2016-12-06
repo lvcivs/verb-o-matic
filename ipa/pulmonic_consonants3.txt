@@ -1,0 +1,16 @@
+ɭ	retroflex lateral approximant	Norwegian <i>farlig</i> [fɑːɭi] 'dangerous'	http://en.wikipedia.org/wiki/Retroflex_lateral_approximant	Retroflex_lateral_approximant.ogg
+ɳ	retroflex nasal	Swedish <i>garn</i> [gɑːɳ] 'yarn'	http://en.wikipedia.org/wiki/Retroflex_nasal	Retroflex_nasal.ogg
+ɽ	retroflex tap/flap	Swedish (rural dialects) <i>blad</i> [bɽɑː] 'blade'	http://en.wikipedia.org/wiki/Retroflex_flap	Retroflex_flap.ogg
+s	voiceless alveolar fricative	English <i>sand</i> [sænd] 'sand'	http://en.wikipedia.org/wiki/Voiceless_alveolar_fricative	Voiceless_alveolar_fricative.ogg
+t	voiceless alveolar plosive	English <i>tick</i> [tʰɪk] 'tick'	http://en.wikipedia.org/wiki/Voiceless_alveolar_plosive	Voiceless_alveolar_plosive.ogg
+ɴ	uvular nasal	Japanese 日本/nihon [ɲihoɴ] 'Japan'	http://en.wikipedia.org/wiki/Uvular_nasal	Uvular_nasal.ogg
+ʀ	uvular trill	Portuguese (European) <i>carro</i> [ˈkaʀu] 'car'	http://en.wikipedia.org/wiki/Uvular_trill	Uvular_trill.ogg
+ɰ	velar approximant	Irish /naoi/ [̪nˠɰiː] 'nine'	http://en.wikipedia.org/wiki/Velar_approximant	Voiced_velar_approximant.ogg
+ʟ	velar lateral approximant	Melpa [paʟa] 'fence'	http://en.wikipedia.org/wiki/Velar_lateral_approximant	Velar_lateral_approximant.ogg
+ɮ	voiced alveolar lateral fricative	Zulu <i>indlala</i> [ínˈɮàlà] 'hunger'	http://en.wikipedia.org/wiki/Voiced_alveolar_lateral_fricative	Voiced_lateral_fricative.ogg
+ʢ	voiced epiglottal fricative/approximant	Arabic (Some dialects) تَعَشَّى [t̪ɑʢɑʃʃɐː] 'to have supper'	http://en.wikipedia.org/wiki/Voiced_epiglottal_fricative	http://upload.wikimedia.org/wikipedia/en/0/02/Con-76b.wav
+ɦ	breathy-voiced glottal fricative/approximant	Dutch <i>haat</i> [ɦaːt] 'hate'	http://en.wikipedia.org/wiki/Voiced_glottal_fricative	Voiced_glottal_fricative.ogg
+ʝ	voiced palatal fricative	Swedish <i>jord</i> [ʝuːɖ] 'soil'	http://en.wikipedia.org/wiki/Voiced_palatal_fricative	Voiced_palatal_fricative.ogg
+ɟ	voiced palatal plosive	Turkish <i>güne­ş</i> [ɟyˈneʃ] 'sun'	http://en.wikipedia.org/wiki/Voiced_palatal_plosive	Voiced_palatal_plosive.ogg
+ʕ	voiced pharyngeal fricative/approximant	Somali <i>caadi</i> [ʕaːdi] 'cane'	http://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative	http://upload.wikimedia.org/wikipedia/en/0/0c/Voiced_pharyngeal_fricative1.ogg
+θ	voiceless dental fricative	English <i>thin</i> [θɪn] 'thin'	http://en.wikipedia.org/wiki/Voiceless_dental_fricative	Voiceless_dental_fricative.ogg

@@ -1,0 +1,21 @@
+τὸ στάδιον	die Rennbahn, das Stadion, ca. 180 m	
+βαδίζω	gehen	
+ὁ ἑταῖρος	der Genosse, der Freund	
+ἐπιβαίνω τῆς γῆς	auf die Erde treten	
+ἀκολουθέω	folgen	
+βοάω	rufen, schreien	
+ἐπιβάλλω	darüber werfen, darauf werfen, hinein werfen	
+ὁ στέφανος	der Kranz	
+ὁ θόρυβος	der Lärm, die Unruhe	
+ὁ δέ	der aber	
+ἔφη	er sagte	
+νικάω	siegen, besiegen	
+φρόνιμος, ον	klug, vernünftig	
+φθάνω	jmdn überholen, jmdm zuvorkommen	
+τρέχω	laufen	
+συντρέχω	mitlaufen, zusammenlaufen, zusammen laufen	
+πρότερον	früher	
+εὐδαίμων, ον	glücklich, wohlhabend	
+Διογένης βλέπων ἄνδρα τινὰ ἐκ τοῦ σταδίου βαδίζοντα, ἠρώτησε ...	Als/Während Diogenes sah## dass ein Mann aus dem Stadion ging## fragte er...	R52: temporal
+᾽Ολυμπικὴν νίκην νικᾶν	einen olympischen Sieg erringen	R53a: Akk. des sinngleichen Objekts
+᾽Ολύμπια νικᾶν	einen olympischen Sieg erringen	R53b

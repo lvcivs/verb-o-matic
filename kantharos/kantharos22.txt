@@ -1,0 +1,34 @@
+ἡ στρατιά	das Heer	
+᾽Αθηναῖος, α, ον	aus Athen, athenisch	
+ὁ ᾽Αθηναῖος	der Athener	
+ὁ στρατηγός	der Heerführer, der Stratege	
+ὁ στρατιώτης	der Soldat	
+συνακολουθέω	folgen	
+μεταπέμπομαι	nach jmdm schicken, jmdn kommen lassen	
+-θεν	von ... her	
+οἴκοθεν	von zu Hause	
+ὁ ξένος	der Gastfreund, der Söldner	
+ἀρχαῖος, α, ον	alt, ehemalig	
+κρείττων, ον	stärker, überlegen, wichtiger	
+ἡ πατρίς	das Vaterland, die Vaterstadt	
+μέντοι	freilich, zwar	
+συμβουλεύω	jmdm etw raten	
+συμβουλεύομαι τῷ Σωκράτει	ich berate mich mit Sokrates	
+ἡ πορεία	die Reise, der Marsch	
+θύω	opfern	
+ἔρχομαι	kommen, gehen	
+καλῶς πράττω	es geht mir gut	
+εὖ πράττω	es geht mir gut	
+σῴζω	retten, bewahren	
+διασῴζω	retten, bewahren	
+πάλιν	wieder	
+ἡ μαντεία	die Weissagung, die Wahrsagung	
+αἰτιάομαι	beschuldigen	
+ἀμείνων, ον	tüchtiger, besser, tapferer	
+πορεύομαι	reisen, marschieren	
+κρίνω	unterscheiden, aussondern, auswählen, entscheiden, urteilen, richten	
+διακρίνω	unterscheiden, aussondern, auswählen, entscheiden, urteilen, richten	
+χρή	es ist nötig, man muss	
+᾽Επεὶ Σωκράτης τοῖς φίλοις διελέγετο ...	Als Sokrates sich mit seinen Freunden unterhielt ...	R60a
+Καὶ ὁ Σωκράτης συμβουλεύει αὐτῷ ...	Und Sokrates rät ihm ...	R60b
+᾽Επεὶ δὲ πάλιν ἦλθε, λέγει τὴν μαντείαν τῷ Σωκράτει.	Als er zurückgekehrt war## berichtet er Sokrates den Orakelspruch.	R61

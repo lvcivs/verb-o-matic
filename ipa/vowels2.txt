@@ -1,0 +1,13 @@
+ɵ	close-mid central rounded vowel	Swedish <i>dum</i> [dɵmː] 'dumb'	http://en.wikipedia.org/wiki/Close-mid_central_rounded_vowel	Close-mid_central_rounded_vowel.ogg
+œ	open-mid front rounded vowel	German <i>Hölle</i> [ˈhœlə] 'hell'	http://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel	Open-mid_front_rounded_vowel.ogg
+ɔ	open-mid back rounded vowel	German <i>voll</i> [fɔl] 'full'	http://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel	Open-mid_back_rounded_vowel.ogg
+ɒ	open back rounded vowel	English RP <i>hot</i> [hɒt] 'hot'	http://en.wikipedia.org/wiki/Open_back_rounded_vowel	Open_back_rounded_vowel.ogg
+ɑ	open back unrounded vowel	German <i>Tag</i> [tɑːk] 'day'	http://en.wikipedia.org/wiki/Open_back_unrounded_vowel	Open_back_unrounded_vowel.ogg
+ɶ	open front rounded vowel	Swedish <i>hört</i> [hɶ̝ːʈ] 'heard' (supine)	http://en.wikipedia.org/wiki/Open_front_rounded_vowel	Open_front_rounded_vowel.ogg
+ʌ	open-mid back unrounded vowel	Irish <i>ola</i> [ʌlˠə] 'oil'	http://en.wikipedia.org/wiki/Open-mid_back_unrounded_vowel	Open-mid_back_unrounded_vowel.ogg
+ɞ	open-mid central rounded vowel	Irish <i>tomhail</i> [tɞ̜ːlʲ] 'consume!'	http://en.wikipedia.org/wiki/Open-mid_central_rounded_vowel	Open-mid_central_rounded_vowel.ogg
+ɜ	open-mid central unrounded vowel	English RP <i>bird</i> [bɜːd] 'bird'	http://en.wikipedia.org/wiki/Open-mid_central_unrounded_vowel	Open-mid_central_unrounded_vowel.ogg
+u	close back rounded vowel	German <i>Fuß</i> [fuːs] 'foot'	http://en.wikipedia.org/wiki/Close_back_rounded_vowel	Close_back_rounded_vowel.ogg
+y	close front rounded vowel	German <i>Blüte</i> [ˈblyːtə] 'blossom'	http://en.wikipedia.org/wiki/Close_front_rounded_vowel	Close_front_rounded_vowel.ogg
+æ	near-open front unrounded vowel	English <i>cat</i> [kʰʲæt] 'cat'	http://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel	Near-open_front_unrounded_vowel.ogg
+ø	close-mid front rounded vowel	German <i>schön</i> [ʃøːn] 'beautiful'	http://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel	Close-mid_front_rounded_vowel.ogg

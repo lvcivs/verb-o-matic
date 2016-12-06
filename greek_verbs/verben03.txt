@@ -1,0 +1,12 @@
+εἰμι	1. pers. sg. pres. ind. act.	εἰμι ‘sein’
+εἶ	2. pers. sg. pres. ind. act.	εἰμι ‘sein’
+ἐστι(ν)	3. pers. sg. pres. ind. act.	εἰμι ‘sein’
+ἐσμεν	1. pers. pl. pres. ind. act.	εἰμι ‘sein’
+ἐστε	2. pers. pl. pres. ind. act.	εἰμι ‘sein’
+εἰσι(ν)	3. pers. pl. pres. ind. act.	εἰμι ‘sein’
+ἴσθι	2. pers. sg. pres. imp. act.	εἰμι ‘sein’
+ἔστε	2. pers. pl. pres. imp. act.	εἰμι ‘sein’
+εἶναι	inf. pres. act.	εἰμι ‘sein’	εἰμι ‘sein’
+ὤν	part. pres. act. nom. sg. m.	εἰμι ‘sein’
+οὔσα	part. pres. act. nom. sg. f.	εἰμι ‘sein’
+ὄν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	εἰμι ‘sein’

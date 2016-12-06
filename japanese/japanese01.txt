@@ -1,0 +1,54 @@
+watashi, わたし 	ich
+watashitachi, わたしたち 	wir
+anata, あなた 	Sie
+ano hito, あの ひと 	die Person
+... san, ... さん 	Herr, Frau, Anrede
+... chan, ... ちゃん 	Anrede Kinder
+... kun, ... くん 	Anrede Junge
+... jin, ... じん 	Suffix Nationalität
+sensei, せんせい 	Lehrer
+kyooshi, きょうし 	Dozent, Lehrkraft
+gakusei, がくせい 	Schüler, Student
+kaishain, かいしゃいん 	Angestellter
+ginkooin, ぎんこういん 	Bankangestellter
+isha, いしゃ 	Arzt
+kenkyuusha, けんきゅうしゃ 	Forscher
+daigaku, だいがく 	Universität
+byooin, びょういん 	Krankenhaus
+denki, でんき 	Strom, Elektrizität, Licht
+... sai, ... さい 	... Jahre alt
+enjinia, エンジニア 	Ingenieur 
+benkyooshimasu, べんきょうします 	studieren, lernen
+dare, だれ 	wer
+nansai, なんさい 	wie alt
+amerika, アメリカ 	USA
+igirisu, イギリス 	Großbritannien
+indo, インド 	Indien
+doitsu, ドイツ 	Deutschland
+tai, タイ 	Thailand
+kankoku, かんこく 	Südkorea
+chuugoku, ちゅうごく 	China
+furansu, フランス 	Frankreich
+burajiru, ブラジル 	Brasilien
+indoneshia, インドネシア 	Indonesien
+zero, ゼロ, rei, れい 	null
+ichi, いち 	eins
+ni, に 	zwei
+san, さん 	drei
+yon, よん, shi, し 	vier
+go, ご 	fünf
+roku, ろく 	sechs
+nana, なな, shichi, しち 	sieben
+hachi, はち 	acht
+kyuu, きゅう, ku, く 	neun
+juu, じゅう 	zehn
+ichi oku, いち おく 	100 Millionen, 100.000.000
+minasan, みなさん 	meine Damen und Herren
+o namae wa?, お なまえ は 	Wie heissen Sie?
+hajimemashite, はじめまして 	Darf ich mich vorstellen
+kochira wa, こちら は 	Das hier ist
+kara kimashita, から きました 	Ich komme aus
+shitsurei desu ga, しつれい　です　が 	Entschuldigen Sie bitte, aber...
+doozo yoroshiku onegaishimasu 	Darf ich mich vorstellen
+hai, はい 	ja
+iie, いいえ 	nein

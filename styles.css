@@ -1,0 +1,255 @@
+/*
+This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
+
+    verb-o-matic is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    verb-o-matic is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with verb-o-matic.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 75% Verdana, Palatino, Garamond, serif;
+	line-height: 1.9;
+	margin: 0; 
+	padding: 0;
+	text-align: center; 
+	}
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+h2 { 
+	letter-spacing: 5px; 
+	margin: 0; 
+	text-align:center;
+	}
+h3 { 
+	font-weight: bold;
+	font-size:90%;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #7259A5;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #9685BA;
+	}
+a:hover, a:active { 
+	text-decoration: underline; 
+	color: #7259A5;
+	}
+img {
+	border: 0px;
+}
+#container { 
+	padding: 0px 0px 0px 0px;  
+	width: 602px;
+	margin: 0 auto;
+	}
+#top a:link { 
+	text-decoration: none; 
+	color: #cccccc;
+	}
+#top a:visited { 
+	text-decoration: none; 
+	color: #cccccc;
+	}
+#top a:hover, a:active { 
+	text-decoration: underline; 
+	color: #aaaaaa;
+	}
+#top {
+	font-size:x-small;
+	background:#e8e8e8;
+	padding: 0px 0px 0px 0px;  
+	height: 90px;
+}
+#main { 
+	background:#e8e8e8;
+	padding: 0px 0px 10px 0px;  
+	width: 602px;
+	min-height:500px;
+}
+#twoColTable {
+	width:100%;
+	table-layout:fixed;
+	overflow:hidden;
+}
+.twoColTableLeft {
+	text-align:right;
+	width: 297px;
+	padding-right: 0.2em;
+}
+
+.twoColTableRight {
+	text-align:left;
+	border-left: 2px #cccccc dotted;
+	width: 297px;
+	overflow:hidden;
+}
+.clear {
+	clear:left;
+}
+#wordForm {
+	font-size:x-large;
+	margin-top:1em;
+}
+#ipaSymbol {
+	font-size:x-large;
+	line-height:1;
+	margin-bottom:0.2em;
+}
+#asin {
+	font-size:smaller;
+	margin-bottom:0.4em;
+}
+#otherInfo {
+
+}
+#lemma {
+	font-size:smaller;
+
+}
+#wpLink {
+	font-size:smaller;
+
+}
+#soundLink {
+	font-size:smaller;
+
+}
+.morphoBox {
+	font-size:x-small;
+	border:1px #cccccc dotted;
+	background:#dddddd;
+	padding:0.2em;
+	cursor: pointer;
+}
+.typeBox {
+	font-size:small;
+	border:1px #cccccc dotted;
+	background:#dddddd;
+	cursor: pointer;
+	margin:0.2em;
+	padding:0.3em;
+
+}
+.morphoButtons {
+	margin-left: 0.2em;
+}
+.morphoTable {
+	overflow:hidden;
+}
+.selectedMorphoBox {
+	font-size:x-small;
+	border:1px #aaaaaa dotted;
+	background:#98CCB8;
+	padding:0.2em;
+	cursor: pointer;
+}
+.selectedTypeBox {
+	font-size:small;
+	border:1px #aaaaaa dotted;
+	background:#98CCB8;
+	margin:0.2em;
+	padding:0.3em;
+	cursor: pointer;
+}
+.solutionBlock {
+	font-size: smaller;
+	margin-left:0.5em;
+	margin-bottom:2em;
+	line-height:2.4;
+}
+.solution {
+	border:1px #cccccc dotted;
+	background:#dddddd;
+	padding-left:0.5em;
+	padding-right:0.5em;
+	padding-top:0.2em;
+	padding-bottom:0.2em;
+	margin-bottom: 3em;
+}
+.checkmark {
+	padding-left: 10px;
+	margin-bottom: -5px;
+}
+#add_remove {
+	padding:0.1em;
+	margin-top: 1em;
+
+}
+
+.counters {
+	font-size: x-small;
+	color: #aaaaaa;
+}
+.exercise {
+	color: #aaaaaa;
+}
+
+#contact {
+	font-size: xx-small;
+	color: #cccccc;
+	text-align:right;
+	padding: 0px 0px 0px 0px;  
+	margin-top:-0.5em;
+	margin-bottom:10em;
+
+}
+#contact a:link { 
+	text-decoration: none; 
+	color: #cccccc;
+	}
+#contact a:visited { 
+	text-decoration: none; 
+	color: #cccccc;
+}
+#contact a:hover, a:active { 
+	text-decoration: underline; 
+	color: #999999;
+}
+#vocabularyInput {
+	margin-left: 0.5em;
+}
+.mono {
+	text-align:left;
+	padding: 5em;
+}
+.mono h2 {
+	text-align:left;
+	letter-spacing:1px;
+}
+.greek {
+	font-size: 120%;
+	font-family: Palatino Linotype,Cardo,Vusillus Old Face,Arial Unicode MS,Georgia Greek,Athena Roman,Athena,Athena Unicode,Code2000,TITUS Cyberbit Basic,Aisa Unicode,Lucida Sans Unicode, Palatino;
+}
+.ipaSymbol {
+	font-size: 300%;
+	font-family: Gentium, Doulos SIL, Charis SIL, Junicode, Palatino Linotype, Cardo, Vusillus Old Face, Arial Unicode MS, Georgia Greek, Athena Roman, Athena, Athena Unicode, Code2000, TITUS Cyberbit Basic, Aisa Unicode, Lucida Sans Unicode, Palatino;
+}
+.note {
+	border: 2px #cccccc solid;
+	padding: 0.2em;
+	margin: 0.2em;
+	font-size: smaller;
+
+}
+.sample {
+	background: #98CCB8;
+}

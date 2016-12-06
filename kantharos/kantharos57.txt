@@ -1,0 +1,25 @@
+τέτταρες (τέσσαρες)	vier	
+ὁ κύβος	der Würfel	
+ὁ μόχθος	die Mühe, die Mühsal	
+τὸ γράμμα	der Buchstabe, die Schrift	
+τὰ γράμματα	die Literatur, die Wissenschaften	
+βροτός	sterblich	
+ὁ ναός	der Tempel	
+ἐκτός	ausserhalb	
+τὸ ὕψος	die Höhe	
+ὀκτώ	acht	
+τὸ μῆκος	die Länge, die Grösse	
+διακόσιοι	zweihundert	
+ὑγιαίνω	gesund sein, bei Verstand sein, klug sein	
+πλουτέω	reich sein, Überfluss haben	
+ὁ δόλος	die List, der Betrug	
+ἄδολος	aufrichtig, ehrlich, unverfälscht	
+τέταρτος	der vierte	
+ἡβάω	jung sein, in voller Kraft stehen	
+ὁ γάμος	die Hochzeit, die Ehe	
+αὔριον	morgen	
+πέμπτος	der fünfte	
+ἑκατόν	hundert	
+χίλιοι	tausend	
+῾Υγιαίνειν ἄριστον ἀνθρώπῳ ἐστίν.	Gesund zu sein ist das Wichtigste für den Menschen.	R125: dativus (in)commodi
+Δεύτερόν ἐστι φυὰν καλὸν γενέσθαι.	Das Zweitwichtigste ist## in seiner äusseren Erscheinung schön zu sein.	R126: unvollständiger AcI

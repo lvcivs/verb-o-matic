@@ -1,0 +1,22 @@
+τριάκοντα	dreissig	
+διαλαμβάνω	einteilen, unterscheiden	
+ἀπέρχομαι	weggehen, entfernen, zurückkehren	
+καταλαμβάνω	einnehmen, jmdn antreffen, jmdn ertappen, etw begreifen	
+ἐκβάλλω	ausstossen, hinauswerfen, verbannen, vertreiben	
+δίδωμι	geben	
+παραδίδωμι	übergeben, überlassen	
+τὸ ἀνδράποδον	der Sklave	
+τὸ τάλαντον	das Talent	
+ἕτοιμος, (η), ον	bereit, vorhanden	
+ἑτοῖμος, (η), ον	bereit, vorhanden	
+ὅμως	dennoch	
+ἀναγκαῖος, α, ον	zwingend, notwendig, verwandt	
+ἡ πίστις	die Treue, das Vertrauen, der Glaube, das feste Versprechen	
+εἰσέρχομαι	hineinkommen	
+αἰσθάνομαι	bemerken, wahrnehmen	
+ἔνειμι	drin sein	
+ὁ δοῦλος	der Sklave	
+τρεῖς, τρεῖς, τρία	drei	
+ἀγαπάω	jmdn lieben, mit etw zufrieden sein	
+᾽Εμὲ ξένους ἑστιῶντα κατέλαβον, οὓς ἐκβαλόντες Πείσωνί με παραδιδόασιν.	Sie trafen mich an## während ich Gäste bewirtete## nach deren Hinauswurf sie mich Peison übergeben/übergaben.	R63: relativische Verschränkung
+῾Υπέσχετο λαβὼν τὸ ἀργύριόν με σώσειν.	Er versprach## mich zu retten## wenn er das Geld bekäme.	R64: konditional

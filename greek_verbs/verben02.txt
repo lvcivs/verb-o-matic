@@ -1,0 +1,14 @@
+παιδεύουσι	3. pers. pl. pres. ind. act., part. pres. act. dat. pl. m., part. pres. act. dat. pl. n.	παιδεύω ‘erziehen’
+παιδεύσασι	part. aor. act. dat. pl. m., part. aor. act. dat. pl. n.	παιδεύω ‘erziehen’
+παίδευε	2. pers. sg. pres. imp. act.	παιδεύω ‘erziehen’
+παιδεύετε	2. pers. pl. pres. imp. act., 2. pers. pl. pres. ind. act.	παιδεύω ‘erziehen’
+παιδεύου	2. pers. sg. pres. imp. med-pass.	παιδεύω ‘erziehen’
+παιδεύεσθε	2. pers. pl. pres. imp. med-pass., 2. pers. pl. pres. ind. med-pass.	παιδεύω ‘erziehen’
+παιδεύειν	inf. pres. act.	παιδεύω ‘erziehen’
+παιδεύεσθαι	inf. pres. med-pass.	παιδεύω ‘erziehen’
+παιδεύων	part. pres. act. nom. sg. m.	παιδεύω ‘erziehen’
+παιδεύουσα	part. pres. act. nom. sg. f.	παιδεύω ‘erziehen’
+παιδεῦον	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	παιδεύω ‘erziehen’
+παιδευόμενος	part. pres. med-pass. nom. sg. m.	παιδεύω ‘erziehen’
+παιδευομένη	part. pres. med-pass. nom. sg. f.	παιδεύω ‘erziehen’
+παιδευόμενον	part. pres. med-pass. nom. sg. n.	παιδεύω ‘erziehen’

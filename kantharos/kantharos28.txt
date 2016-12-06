@@ -1,0 +1,13 @@
+ἄν	wohl, eventuell	
+ἐμπίπτω	hineinfallen, in etw hineingeraten	
+τὸ ἀνάθημα	das Weihgeschenk	
+ἀνατίθημι	aufstellen, weihen	
+μέμφομαι	tadeln	
+διότι	weil, da	
+ἰατρὸν κακῶς λέγειν	schlecht von einem Arzt reden	
+ἡ πεῖρα	der Versuch, die Probe, die Erfahrung	
+ἀδικέω	ich tue jmdm unrecht, ich kränke jmdn	mit Akkusativ
+῾Ηλίκος ἂν ἦν θόρυβος ὑμῖν, εἰ ἐγὼ ταῦτ᾽ ἐποίουν.	Wie gross wäre der Lärm bei euch## wenn ich das täte.	R71: Irrealis
+Εἰ μὴ γὰρ μῦς ἐνέπεσεν εἰς τὸ μέλι, οὐκ ἂν ἐπώλησα αὐτό.	Wenn nämlich keine Maus in den Honig gefallen wäre## hätte ich ihn nicht verkauft.	R72: Irrealis der Vergangenheit mit Aorist
+Εἰ μὴ γὰρ μῦς ἐνέπεσεν εἰς τὸ μέλι, οὐκ ἂν ἐπώλουν αὐτό.	Wenn nämlich keine Maus in den Honig hineingefallen wäre## würde ich ihn nicht verkaufen.	R73
+πολλῷ πλεῖον	um vieles mehr, viel mehr	R74: Dat. differentiae oder mensurae

@@ -1,0 +1,34 @@
+κομίζω	etw besorgen, etw herbeibringen, fortbringen	
+ὁ ἰατρός	der Arzt	
+ἡ ἰατρική	die Heilkunst	
+διδάσκω	lehren	
+ἀσκέω	üben, ausüben	
+ὁ φθόνος	der Neid, die Missgunst	
+ἄφθονος, ον	neidlos, reichlich	
+ἐγείρω	wecken, aufwecken	
+ἀνεγείρω	wecken, aufwecken	
+Ζεύς	Zeus	
+ἐθέλω	wollen	+ AcI
+θέλω	wollen	+ AcI
+ἐλευθερόω	befreien	
+θνητός, ή, όν	sterblich	
+ῥίπτω	werfen	
+παραγίγνομαι	dazu kommen, dabeisein	
+προσγίγνομαι	dazu kommen, dabeisein	
+δουλεύω	Sklave sein, dienen	
+ἡ μοῖρα	der Teil, der Anteil, das Los, das Schicksal	
+αἱ Μοῖραι	die Schicksalsgöttinnen	Klotho, Lachesis, Atropos
+ἀπολύω	ablösen, befreien, entlassen	
+ἑκών, ἑκοῦσα, ἑκόν	freiwillig, absichtlich	
+ἑκούσιος, α, ον	freiwillig, absichtlich	
+ὡς	wie, dass, weil, als	1.: komparativ  2.: bei Aussage  3.: kausal  4.: temporal
+ὑπέρ	oberhalb, im Interesse von	
+ὑπὲρ τοῦ οὐρανοῦ	über dem Himmel	
+ὑπὲρ αὐτοῦ ἀποθνῄσκειν	für ihn sterben	
+μήτε ... μήτε	weder ... noch	
+ἀνά	auf ... hinauf, gemäss, entsprechend	
+ἀνὰ τὸν ποταμόν	flussaufwärts	
+ἀνα-	hinauf-, zurück-, wieder-	als Präfix
+ἀναπέμπω	hinaufschicken, zurückschicken	
+Τῆς μητρὸς ἀποθανούσης ᾽Ασκληπιὸς ἐκομίσθη πρὸς τὸν Χείρωνα.	Als seine Mutter gestorben war, wurde Asklepios zu Cheiron gebracht.	R69: genitivus absolutus
+ἡ τοῦ θνῄσκειν ἡμέρα	der Tag des Sterbens, der Todestag	R70: substantivierter Infinitiv

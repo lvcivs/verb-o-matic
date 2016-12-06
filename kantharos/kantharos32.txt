@@ -1,0 +1,28 @@
+ἐκπορεύομαι	angehen, herausgehen, weggehen, herauskommen	
+προστρέχω	herbeilaufen	
+ἵνα	damit	mit Konjunktiv
+ἡ ζωή	das Leben, der Lebensunterhalt	
+κλέπτω	stehlen	
+μαρτυρέω	bezeugen	
+ψεύδομαι	lügen, sich täuschen	1. Bed.: medial; 2. Bed.: passiv
+ψευδομαρτυρέω	falsches Zeugnis ablegen	
+στερέω	berauben	mit Genitiv
+ἀποστερέω	berauben	mit Genitiv
+φυλάττω	bewachen	
+φυλάσσω	bewachen	
+ἡ νεότης	die Jugend	
+ὅσος, ὅση, ὅσον	wie gross, wie viel	relativ
+δός	gib!	
+ὁ πτωχός	der Bettler, der Arme	
+ὁ θησαυρός	die Schatzkammer, der Schatz	
+δεῦρο	hierher	
+ἐπί	auf, aufgrund von, wegen	1. Bed.: räumlich; 2.+3. Bed.: kausal
+ἐπὶ τῷ λόγῳ	wegen des Worts	
+λυπέω	betrüben	
+προστάττω	anordnen, befehlen, dazustellen	
+πολεμέω	Krieg führen	
+πολλάκις	vielfach, oft, viele Male	
+φεύγω	fliehen, angeklagt sein, angeklagt werden	
+Τί ποιήσω;	Was soll ich tun?	R81: coniunctivus deliberativus
+Τί ποιήσω, ἵνα ζωὴν αἰώνιον κληρονομήσω;	Was soll ich tun## damit ich ewiges Leben erbe?	R82: finaler Gliedsatz, Verb im Konjunktiv
+Μὴ φονεύσῃς.	Du sollst nicht töten.	R83: Verbot im Konjunktiv

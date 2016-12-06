@@ -1,0 +1,32 @@
+καθέζομαι	sich setzen	
+ὁ θρόνος	der Sessel	
+ἐπίκειμαι	auf etw liegen	
+μιμέομαι	nachahmen	Präsensreduplikation
+ἡ ἐλαία	der Ölbaum, die Olive	
+δεξιός	rechts	
+ἀριστερός	links	
+τὸ σκῆπτρον	der Stab, das Szepter	
+τὸ μέταλλον	das Bergwerk, das Erz, das Metall	
+χρυσοῦς	golden	
+ἐμποιέω	hineintun, einfügen, einflössen	
+ποικίλος	verschiedenartig, bunt	
+ὁ λίθος	der Stein	
+ἔμπροσθεν	von vorn, vorn, vorher	
+ἁρπάζω	rauben	
+ἀναρπάζω	rauben	
+μεταξύ	dazwischen, inzwischen	
+ὁ λόχος	die Abteilung	
+τάττω	aufstellen, ordnen	
+ἐπιτρέπω	jmdm etw überlassen	
+ἡ φρουρά	die Wache, die Besatzung	
+αἱ ᾽Αθῆναι	Athen	
+Αθήνησι(ν)	in Athen	
+ὑπέρ	über ... hinaus, über	
+ὑπὲρ δύναμιν	über die Kraft hinaus	
+λέγω	sagen, reden, nennen	
+πιστεύω	jmdm vertrauen	
+θρόνος χρυσοῦ πεποιημένος	ein aus Gold gemachter Thron	R110: genetivus materiae
+πιστεύουσιν ἐμοί	sie vertrauen mir	R111a
+ἐγὼ πιστεύομαι	mir wird vertraut, mir vertraut man	R111a
+ἐπιτρέπω σοι τὴν φρουράν	ich überlasse dir die Bewachung	R111b
+ἐπιτρέπῃ  τὴν φρουράν.	dir wird die Bewachung überlassen.	R111b

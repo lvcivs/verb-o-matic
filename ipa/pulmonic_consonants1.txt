@@ -1,0 +1,16 @@
+ɹ	alveolar approximant	German (some dialects) <i>Rebe</i> [ɹeːbə] 'vine shoot'	http://en.wikipedia.org/wiki/Alveolar_approximant	Alveolar_approximant.ogg
+ɺ	alveolar lateral flap	Japanese [ɺ̠aːmeɴ] 'ramen'	http://en.wikipedia.org/wiki/Alveolar_lateral_flap	http://upload.wikimedia.org/wikipedia/en/9/9c/Con-80b.wav
+ɾ	alveolar tap/flap	English (General American) <i>better</i> [ˈbɛɾɚ] 'better'	http://en.wikipedia.org/wiki/Alveolar_tap	Alveolar_tap.ogg
+ʙ	bilabial trill	Kele [mʙulim] 'face'	http://en.wikipedia.org/wiki/Bilabial_trill	Bilabial_trill.ogg
+b	voiced bilabial plosive	English <i>aback</i> [əˈbæk] 'aback'	http://en.wikipedia.org/wiki/Voiced_bilabial_plosive	Voiced_bilabial_plosive.ogg
+ç	voiceless palatal fricative	German <i>dicht</i> [dɪçt] 'dense'	http://en.wikipedia.org/wiki/Voiceless_palatal_fricative	Voiceless_palatal_fricative.ogg
+c	voiceless palatal plosive	Icelandic <i>gjóla</i> [couːla] 'light wind'	http://en.wikipedia.org/wiki/Voiceless_palatal_plosive	Voiceless_palatal_plosive.ogg
+d	voiced alveolar plosive	English <i>admit</i> [ædˈmɪt] 'admit'	http://en.wikipedia.org/wiki/Voiced_alveolar_plosive	Voiced_alveolar_plosive.ogg
+ð	voiced dental fricative	English <i>this</i> [ðɪs] 'this'	http://en.wikipedia.org/wiki/Voiced_dental_fricative	Voiced_dental_fricative.ogg
+ɖ	voiced retroflex plosive	Swedish <i>nord</i> [nuːɖ] 'north'	http://en.wikipedia.org/wiki/Voiced_retroflex_plosive	Voiced_retroflex_plosive.ogg
+ʡ	epiglottal plosive	Agul [jaʡ] 'center'	http://en.wikipedia.org/wiki/Epiglottal_plosive	http://upload.wikimedia.org/wikipedia/en/a/a1/Con-77b.wav
+f	voiceless labiodental fricative	English <i>fill</i> [fɪl] 'fill'	http://en.wikipedia.org/wiki/Voiceless_labiodental_fricative	Voiceless_labiodental_fricative.ogg
+ʔ	glottal plosive	English (RP or GA) <i>button</i> [b̥ɐʔn̩]	http://en.wikipedia.org/wiki/Glottal_stop	Glottal_stop.ogg
+h	voiceless glottal fricative/approximant	English <i>high</i> [ˈhaɪ] 'high'	http://en.wikipedia.org/wiki/Voiceless_glottal_fricative	Voiceless_glottal_fricative.ogg
+ħ	voiceless pharyngeal fricative	Arabic (Standard) واحد [wɑːˈħid] 'one'	http://en.wikipedia.org/wiki/Voiceless_pharyngeal_fricative	Voiceless_pharyngeal_fricative.ogg
+χ	voiceless uvular fricative	German <i>Dach</i> [daχ] 'roof'	http://en.wikipedia.org/wiki/Voiceless_uvular_fricative	Voiceless_uvular_fricative.ogg

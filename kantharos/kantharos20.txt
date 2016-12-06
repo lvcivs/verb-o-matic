@@ -1,0 +1,45 @@
+δέχομαι	etw annehmen, jmdn aufnehmen	
+ἀποδέχομαι	etw annehmen, jmdn aufnehmen	
+ζητέω	suchen, untersuchen	
+εὑρίσκω	finden, erfinden	
+θεωρέω	anschauen, erwägen, überlegen	
+τὸ θέατρον	das Theater	
+μόνος, η, ον	allein	
+λείπω	verlassen, zurücklassen, übrig lassen	
+καταλείπω	verlassen, zurücklassen, übrig lassen	
+καθεύδω	schlafen	
+τὸ παιδίον	das kleine Kind	
+δίς	zweimal	
+ὁ ἅλς	das Salz	
+ἐμβάλλω	hineinwerfen, einfallen (in ein Gebiet)	
+δειπνέω	die Mahlzeit einnehmen	Hauptmahlzeit am Spätnachmittag
+ἡ νύξ	die Nacht	
+χωρέω	gehen, weichen	
+ἀποχωρέω	weggehen	
+πλανάομαι	umherirren	
+δειλός, ή, όν	furchtsam, feig, elend	
+στρατεύω	ins Feld ziehen	
+στρατεύομαι	ins Feld ziehen	
+ἡ κραυγή	das Geschrei	
+ὁράω	sehen	
+πίπτω	fallen	
+ὤν, οὖσα, ὄν	seiend	
+πάρειμι	anwesend sein, da sein	
+παρών, παροῦσα, παρόν	anwesend	
+ἡ σπουδή	die Eile, der Eifer, der Ernst	
+ἐπιλανθάνομαι	etw vergessen	mit Gen.
+τῆς μαχαίρας ἐπιλανθάνεσθαι	den Dolch vergessen	
+ἡ σκηνή	das Zelt, die Hütte, die Bühne	
+ἐκπέμπω	entsenden, wegschicken, herausschicken	
+κελεύω	bitten, auffordern, befehlen	antreiben: 1+2: höflich 3: bestimmt
+περιβλέπω	umherblicken, sich umschauen	
+ὑπό	unter ... hinunter	
+ὑπὸ τὴν γῆν	unter die Erde	
+ἔπειτα	dann, danach, darauf	
+εἶτα	dann, danach, darauf	
+ζητέω	suchen, aufsuchen, forschen, untersuchen	
+λοιπός, ή, όν	übrig	
+Δεξάμενός τι καὶ ἀποθεὶς αὐτὸς τοῦτο οὐ δύναται εὑρίσκειν.	Obgleich er etwas selbst in Empfang genommen und weggelegt hat## kann er dies <doch> nicht finden.	R54: konzessiv
+Θεωρήσας μόνος καταλείπεται καθεύδων.	Nachdem er zugeschaut hat## wird er als einziger schlafend zurückgelassen., Nachdem er zugeschaut hat, bleibt er als einziger schlafend zurück.	R55: Partizip des Aorist für Vorzeitigkeit
+(τῆς) νυκτός	nachts, bei Nacht	R56: genetivus temporis
+ὡς ζητῶν	wie suchend, als ob er suchte	R57: Komparativsatz

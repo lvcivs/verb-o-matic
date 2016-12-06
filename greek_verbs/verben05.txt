@@ -1,0 +1,11 @@
+ἐπαίδευον	1. pers. sg. impf. ind. act., 3. pers. pl. impf. ind. act.	παιδεύω ‘erziehen’
+ἐπαίδευες	2. pers. sg. impf. ind. act.	παιδεύω ‘erziehen’
+ἐπαίδευε(ν)	3. pers. sg. impf. ind. act.	παιδεύω ‘erziehen’
+ἐπαιδεύομεν	1. pers. pl. impf. ind. act.	παιδεύω ‘erziehen’
+ἐπαιδεύετε	2. pers. pl. impf. ind. act.	παιδεύω ‘erziehen’
+ἐπαιδευόμην	1. pers. sg. impf. ind. med-pass.	παιδεύω ‘erziehen’
+ἐπαιδεύου	2. pers. sg. impf. ind. med-pass.	παιδεύω ‘erziehen’
+ἐπαιδεύετο	3. pers. sg. impf. ind. med-pass.	παιδεύω ‘erziehen’
+ἐπαιδευόμεθα	1. pers. pl. impf. ind. med-pass.	παιδεύω ‘erziehen’
+ἐπαιδεύεσθε	2. pers. pl. impf. ind. med-pass.	παιδεύω ‘erziehen’
+ἐπαιδεύοντο	3. pers. pl. impf. ind. med-pass.	παιδεύω ‘erziehen’

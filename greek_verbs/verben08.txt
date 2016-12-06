@@ -1,0 +1,42 @@
+δῶ	1. pers. sg. aor. subj. act.	δίδωμι ‘geben’
+δῷ	3. pers. sg. aor. subj. act., 2. pers. sg. aor. subj. med.	δίδωμι ‘geben’
+δίδομαι	1. pers. sg. pres. ind. med-pass.	δίδωμι ‘geben’
+δίδομεν	1. pers. pl. pres. ind. act.	δίδωμι ‘geben’
+δίδοσαι	2. pers. sg. pres. ind. med-pass.	δίδωμι ‘geben’
+δίδοσθαι	inf. pres. med-pass.	δίδωμι ‘geben’
+δίδοσθε	2. pers. pl. pres. ind. med-pass., 2. pers. pl. pres. imp. med-pass.	δίδωμι ‘geben’
+δίδοσο	2. pers. sg. pres. imp. med-pass.	δίδωμι ‘geben’
+δίδοτε	2. pers. pl. pres. ind. act., 2. pers. pl. pres. imp. act.	δίδωμι ‘geben’
+δίδου	2. pers. sg. pres. imp. act.	δίδωμι ‘geben’
+δίδωμι	1. pers. sg. pres. ind. act.	δίδωμι ‘geben’
+δίδως	2. pers. sg. pres. ind. act.	δίδωμι ‘geben’
+δίδωσι(ν)	3. pers. sg. pres. ind. act.	δίδωμι ‘geben’
+ἐδόθην	1. pers. sg. aor. ind. pass.	δίδωμι ‘geben’
+διδῶ	1. pers. sg. pres. subj. act.	δίδωμι ‘geben’
+διδῷ	3. pers. sg. pres. subj. act., 2. pers. sg. pres. subj. med-pass.	δίδωμι ‘geben’
+διδόασιν	3. pers. pl. pres. ind. act.	δίδωμι ‘geben’
+διδῶμαι	1. pers. sg. pres. subj. med-pass.	δίδωμι ‘geben’
+διδῶμεν	1. pers. pl. pres. subj. act.	δίδωμι ‘geben’
+διδόμενος	part. pres. med-pass. nom. sg. m.	δίδωμι ‘geben’
+διδόν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	δίδωμι ‘geben’
+διδόναι	inf. pres. act.	δίδωμι ‘geben’
+διδόντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	δίδωμι ‘geben’
+διδοῖεν	3. pers. pl. pres. opt. act.	δίδωμι ‘geben’
+διδοίη	3. pers. sg. pres. opt. act.	δίδωμι ‘geben’
+διδοίην	1. pers. sg. pres. opt. act.	δίδωμι ‘geben’
+διδοίης	2. pers. sg. pres. opt. act.	δίδωμι ‘geben’
+διδοῖμεν	1. pers. pl. pres. opt. act.	δίδωμι ‘geben’
+διδοίμην	1. pers. sg. pres. opt. med-pass.	δίδωμι ‘geben’
+διδοῖο	2. pers. sg. pres. opt. med-pass.	δίδωμι ‘geben’
+διδούς	part. pres. act. nom. sg. m.	δίδωμι ‘geben’
+διδοῦσα	part. pres. act. nom. sg. f.	δίδωμι ‘geben’
+διδούσης	part. pres. act. gen. sg. f.	δίδωμι ‘geben’
+διδοῖτε	2. pers. pl. pres. opt. act.	δίδωμι ‘geben’
+διδοῖτο	3. pers. sg. pres. opt. med-pass.	δίδωμι ‘geben’
+διδῷς	2. pers. sg. pres. subj. act.	δίδωμι ‘geben’
+διδῶσι(ν)	3. pers. pl. pres. subj. act.	δίδωμι ‘geben’
+διδῶται	3. pers. sg. pres. subj. med-pass.	δίδωμι ‘geben’
+διδῶτε	2. pers. pl. pres. subj. act.	δίδωμι ‘geben’
+δῶμαι	1. pers. sg. aor. subj. med.	δίδωμι ‘geben’
+δώμεθα	1. pers. pl. aor. subj. med.	δίδωμι ‘geben’
+ἐδόμεθα	1. pers. pl. aor. ind. med.	δίδωμι ‘geben’

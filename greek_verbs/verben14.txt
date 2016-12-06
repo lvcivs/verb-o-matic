@@ -1,0 +1,39 @@
+ἵστημι	1. pers. sg. pres. ind. act.	ἵστημι ‘stellen’
+ἵστης	2. pers. sg. pres. ind. act.	ἵστημι ‘stellen’
+ἵστησι(ν)	3. pers. sg. pres. ind. act.	ἵστημι ‘stellen’
+ἵσταμεν	1. pers. pl. pres. ind. act.	ἵστημι ‘stellen’
+ἵστατε	2. pers. pl. pres. ind. act., 2. pers. pl. pres. imp. act.	ἵστημι ‘stellen’
+ἱστᾶσι(ν)	3. pers. pl. pres. ind. act.	ἵστημι ‘stellen’
+ἱστῶ	1. pers. sg. pres. conj. act.	ἵστημι ‘stellen’
+ἱστῇς	2. pers. sg. pres. conj. act.	ἵστημι ‘stellen’
+ἱστῇ	3. pers. sg. pres. conj. act., 2. pers. sg. pres. conj. med-pass.	ἵστημι ‘stellen’
+ἱστῶμεν	1. pers. pl. pres. conj. act.	ἵστημι ‘stellen’
+ἱστῆτε	2. pers. pl. pres. conj. act.	ἵστημι ‘stellen’
+ἱστῶσι(ν)	3. pers. pl. pres. conj. act.	ἵστημι ‘stellen’
+ἱσταίην	1. pers. sg. pres. opt. act.	ἵστημι ‘stellen’
+ἱσταίης	2. pers. sg. pres. opt. act.	ἵστημι ‘stellen’
+ἱσταίη	3. pers. sg. pres. opt. act.	ἵστημι ‘stellen’
+ἱσταῖμεν	1. pers. pl. pres. opt. act.	ἵστημι ‘stellen’
+ἱσταῖτε	2. pers. pl. pres. opt. act.	ἵστημι ‘stellen’
+ἱσταῖεν	3. pers. pl. pres. opt. act.	ἵστημι ‘stellen’
+ἵστη	2. pers. sg. pres. imp. act.	ἵστημι ‘stellen’
+ἱστάναι	inf. pres. act.	ἵστημι ‘stellen’
+ἱστάς	part. pres. act. nom. sg. m.	ἵστημι ‘stellen’
+ἱστάντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	ἵστημι ‘stellen’
+ἱστᾶσα	part. pres. act. nom. sg. f.	ἵστημι ‘stellen’
+ἱστάσης	part. pres. act. gen. sg. f.	ἵστημι ‘stellen’
+ἱστάν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	ἵστημι ‘stellen’
+ἵσταμαι	1. pers. sg. pres. ind. med-pass.	ἵστημι ‘stellen’
+ἵστασαι	2. pers. sg. pres. ind. med-pass.	ἵστημι ‘stellen’
+ἱστῶμαι	1. pers. sg. pres. conj. med-pass.	ἵστημι ‘stellen’
+ἱστῆται	3. pers. sg. pres. conj. med-pass.	ἵστημι ‘stellen’
+ἱσταίμην	1. pers. sg. pres. opt. med-pass.	ἵστημι ‘stellen’
+ἱσταῖο	2. pers. sg. pres. opt. med-pass.	ἵστημι ‘stellen’
+ἱσταῖτο	3. pers. sg. pres. opt. med-pass.	ἵστημι ‘stellen’
+ἵστασο	2. pers. sg. pres. imp. med-pass.	ἵστημι ‘stellen’
+ἵστασθε	2. pers. pl. pres. imp. med-pass., 2. pers. pl. pres. ind. med-pass.	ἵστημι ‘stellen’
+ἵστασθαι	inf. pres. med-pass.	ἵστημι ‘stellen’
+ἱστάμενος	part. pres. med-pass. nom. sg. m.	ἵστημι ‘stellen’
+στήσω	1. pers. sg. fut. ind. act.	ἵστημι ‘stellen’
+ἔστησα	1. pers. sg. aor. ind. act.	ἵστημι ‘stellen’
+ἐστάθην	1. pers. sg. aor. ind. pass.	ἵστημι ‘stellen’

@@ -1,0 +1,32 @@
+ludus i m	Spiel
+valde	sehr
+amphitheatrum i n	Amphitheater
+bestia ae f	Tier, wildes Tier
+leo leonis m	Löwe
+gladiator gladiatoris m	Gladiator
+spectator spectatoris m	Zuschauer
+vir viri m	Mann
+pulcher pulchra pulchrum	schön
+arena ae f	Arena, Kampfplatz
+clamor clamoris m	Geschrei, Lärm
+signum i n	Zeichen, Feldzeichen
+pugna ae f	Kampf
+duo duae duo	zwei
+arma armorum n	Waffen
+gladius i m	Schwert
+numerus i m	Zahl
+incitare	antreiben
+miser misera miserum	elend, arm
+clementia ae f	Milde, Gnade
+implorare	anflehen
+mittere mitto misi missum	schicken, lassen, freilassen
+virtus virtutis f	Tapferkeit, Tüchtigkeit
+porta ae f	Tor, Tür
+carcer carceris m	Gefängnis, Käfig
+vincere vinco vici victum	siegen, besiegen
+vulnus vulneris n	Wunde
+spectaculum i n	Schauspiel
+humanus a um	menschlich
+inhumanus a um	unmenschlich
+gloria ae f	Ruhm
+petere peto petivi petitum	streben nach, erbitten, darauf zugehen

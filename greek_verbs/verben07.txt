@@ -1,0 +1,45 @@
+ποιῶ	1. pers. sg. pres. ind. act.	ποιέω ‘machen’
+ποιεῖς	2. pers. sg. pres. ind. act.	ποιέω ‘machen’
+ποιεῖ	3. pers. sg. pres. ind. act.	ποιέω ‘machen’
+ποιοῦμεν	1. pers. pl. pres. ind. act.	ποιέω ‘machen’
+ποιεῖτε	2. pers. pl. pres. ind. act., 2. pers. pl. pres. imp. act.	ποιέω ‘machen’
+ποιοῦσι(ν)	3. pers. pl. pres. ind. act.	ποιέω ‘machen’
+ποιοίην	1. pers. sg. pres. opt. act.	ποιέω ‘machen’
+ποιοίης	2. pers. sg. pres. opt. act.	ποιέω ‘machen’
+ποιοίη	3. pers. sg. pres. opt. act.	ποιέω ‘machen’
+ποιοῖμεν	1. pers. pl. pres. opt. act.	ποιέω ‘machen’
+ποιοῖτε	2. pers. pl. pres. opt. act.	ποιέω ‘machen’
+ποιοῖεν	3. pers. pl. pres. opt. act.	ποιέω ‘machen’
+ποίει	2. pers. sg. pres. imp. act.	ποιέω ‘machen’
+ποιεῖν	inf. pres. act.	ποιέω ‘machen’
+ποιῶν	part. pres. act. nom. sg. m.	ποιέω ‘machen’
+ποιοῦσα	part. pres. act. nom. sg. f.	ποιέω ‘machen’
+ποιοῦν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	ποιέω ‘machen’
+ἐποίουν	1. pers. sg. impf. ind. act., 3. pers. pl. impf. ind. act.	ποιέω ‘machen’
+ἐποίεις	2. pers. sg. impf. ind. act.	ποιέω ‘machen’
+ἐποίει	3. pers. sg. impf. ind. act.	ποιέω ‘machen’
+ἐποιοῦμεν	1. pers. pl. impf. ind. act.	ποιέω ‘machen’
+ἐποιεῖτε	2. pers. pl. impf. ind. act.	ποιέω ‘machen’
+ποιοῦμαι	1. pers. sg. pres. ind. med-pass.	ποιέω ‘machen’
+ποιῇ	2. pers. sg. pres. ind. med-pass.	ποιέω ‘machen’
+ποιεῖται	3. pers. sg. pres. ind. med-pass.	ποιέω ‘machen’
+ποιούμεθα	1. pers. pl. pres. ind. med-pass.	ποιέω ‘machen’
+ποιεῖσθε	2. pers. pl. pres. ind. med-pass., 2. pers. pl. pres. imp. med-pass.	ποιέω ‘machen’
+ποιοῦνται	3. pers. pl. pres. ind. med-pass.	ποιέω ‘machen’
+ποιοίμην	1. pers. sg. pres. opt. med-pass.	ποιέω ‘machen’
+ποιοῖο	2. pers. sg. pres. opt. med-pass.	ποιέω ‘machen’
+ποιοῖτο	3. pers. sg. pres. opt. med-pass.	ποιέω ‘machen’
+ποιοίμεθα	1. pers. pl. pres. opt. med-pass.	ποιέω ‘machen’
+ποιοῖσθε	2. pers. pl. pres. opt. med-pass.	ποιέω ‘machen’
+ποιοῖντο	3. pers. pl. pres. opt. med-pass.	ποιέω ‘machen’
+ποιοῦ	2. pers. sg. pres. imp. med-pass.	ποιέω ‘machen’
+ποιεῖσθαι	inf. pres. med-pass.	ποιέω ‘machen’
+ποιούμενος	part. pres. med-pass. nom. sg. m.	ποιέω ‘machen’
+ποιουμένη	part. pres. med-pass. nom. sg. f.	ποιέω ‘machen’
+ποιούμενον	part. pres. med-pass. nom. sg. n.	ποιέω ‘machen’
+ἐποιούμην	1. pers. sg. impf. ind. med-pass.	ποιέω ‘machen’
+ἐποιοῦ	2. pers. sg. impf. ind. med-pass.	ποιέω ‘machen’
+ἐποιεῖτο	3. pers. sg. impf. ind. med-pass.	ποιέω ‘machen’
+ἐποιούμεθα	1. pers. pl. impf. ind. med-pass.	ποιέω ‘machen’
+ἐποιεῖσθε	2. pers. pl. impf. ind. med-pass.	ποιέω ‘machen’
+ἐποιοῦντο	3. pers. pl. impf. ind. med-pass.	ποιέω ‘machen’

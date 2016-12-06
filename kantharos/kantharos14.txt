@@ -1,0 +1,33 @@
+ἀπό	von ... her, seit	
+ἀπὸ τοῦ ποταμοῦ	vom Fluss her	
+ἡ στοά	die Säulenhalle	
+ἡ Στοά	die Stoa	
+ἡ ἱστορία	die Forschung, die Erforschung, die Geschichte	
+τὸ ἔθος	die Gewohnheit, die Sitte	
+φησί	er/sie/es sagt, er/sie/es behauptet	enklit.
+ὑποβάλλω	unterwerfen	
+ἐπί	auf ... drauf	
+ἐπὶ γῆς	auf der Erde	
+ἡ τράπεζα	der Tisch	
+τὸ ξύλον	das Holz	
+ξύλινος, η, ον	hölzern	
+(σ)μικρός, ά, όν	klein	
+μικρόν	ein wenig	
+τοῦτο	dieses	
+ταῦτα	diese	neut. pl.
+ὁ λέων	der Löwe	
+ἡ χείρ	die Hand	
+ἀμφότεροι	beide	
+αἴρω	hochheben	
+δάκνω	beissen	
+ἀποδάκνω	abbeissen	
+ἡ μάχαιρα	das Messer, der Dolch, das Schwert	
+τέμνω	schneiden	
+παρατέμνω	abschneiden, entlang schneiden	
+κάθημαι	sitzen	
+μέσος, η, ον	mitten, der mittlere	
+διαφέρω	sich unterscheiden, sich auszeichnen	Person im Gen.; Sache im Dat.; Beziehung im Akk.
+Ταῖς χερσὶν αἴρουσιν ὅλα κρέα.	Mit den Händen heben sie ganze Fleischstücke hoch.	R41: dativus instrumentalis
+ἄρκτος ἐπιφερομένη	eine heranstürzende Bärin, eine Bärin## die heranstürzt(e)	R42a: attributives Partizip
+Προσφέρονται ταῦτα ταῖς χερσὶν αἴροντες ὅλα κρέα.	Sie führen dies mit den Händen zum Mund## wobei sie ganze Fleischbrocken hochheben.	R42b: modal
+῾Ο κράτιστος μέσος κάθηται.	Der Stärkste sitzt in der Mitte.	R43: prädikatives Adjektiv

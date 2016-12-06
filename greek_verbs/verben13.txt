@@ -1,0 +1,44 @@
+ὧ	1. pers. sg. aor. conj. act.	ἵημι ‘senden’
+ᾗς	2. pers. sg. aor. conj. act.	ἵημι ‘senden’
+ᾗ	3. pers. sg. aor. conj. act., 2. pers. sg. aor. conj. med.	ἵημι ‘senden’
+ὧμεν	1. pers. pl. aor. conj. act.	ἵημι ‘senden’
+ᾗτε	2. pers. pl. aor. conj. act.	ἵημι ‘senden’
+ὧσι(ν)	3. pers. pl. aor. conj. act.	ἵημι ‘senden’
+εἵην	1. pers. sg. aor. opt. act.	ἵημι ‘senden’
+εἵης	2. pers. sg. aor. opt. act.	ἵημι ‘senden’
+εἵη	3. pers. sg. aor. opt. act.	ἵημι ‘senden’
+εἵημεν	1. pers. pl. aor. opt. act.	ἵημι ‘senden’
+εἷμεν	1. pers. pl. aor. opt. act.	ἵημι ‘senden’
+εἵητε	2. pers. pl. aor. opt. act.	ἵημι ‘senden’
+εἷτε	2. pers. pl. aor. opt. act.	ἵημι ‘senden’
+εἵησαν	3. pers. pl. aor. opt. act.	ἵημι ‘senden’
+εἷεν	3. pers. pl. aor. opt. act.	ἵημι ‘senden’
+ἕς	2. pers. sg. aor. imp. act.	ἵημι ‘senden’
+ἕτε	2. pers. pl. aor. imp. act.	ἵημι ‘senden’
+εἷναι	inf. aor. act.	ἵημι ‘senden’
+εἵς	part. aor. act. nom. sg. m.	ἵημι ‘senden’
+ἕντος	part. aor. act. gen. sg. m., part. aor. act. gen. sg. n.	ἵημι ‘senden’
+εἷσα	part. aor. act. nom. sg. f.	ἵημι ‘senden’
+εἵσης	part. aor. act. gen. sg. f.	ἵημι ‘senden’
+ἕν	part. aor. act. nom. sg. n.	ἵημι ‘senden’
+εἵμην	1. pers. sg. aor. ind. med., 1. pers. sg. aor. opt. med.	ἵημι ‘senden’
+εἷσο	2. pers. sg. aor. ind. med.	ἵημι ‘senden’
+εἷτο	3. pers. sg. aor. ind. med., 3. pers. sg. aor. opt. med.	ἵημι ‘senden’
+εἵμεθα	1. pers. pl. aor. ind. med., 1. pers. pl. aor. opt. med.	ἵημι ‘senden’
+εἷσθε	2. pers. pl. aor. ind. med., 2. pers. pl. aor. opt. med.	ἵημι ‘senden’
+εἷντο	3. pers. pl. aor. ind. med., 3. pers. pl. aor. opt. med.	ἵημι ‘senden’
+ὧμαι	1. pers. sg. aor. conj. med.	ἵημι ‘senden’
+ᾗται	3. pers. sg. aor. conj. med.	ἵημι ‘senden’
+ὧμεθα	1. pers. pl. aor. conj. med.	ἵημι ‘senden’
+ᾗσθε	2. pers. pl. aor. conj. med.	ἵημι ‘senden’
+ὧνται	3. pers. pl. aor. conj. med.	ἵημι ‘senden’
+εἷο	2. pers. sg. aor. opt. med.	ἵημι ‘senden’
+οὗ	2. pers. sg. aor. imp. med.	ἵημι ‘senden’
+ἕσθε	2. pers. pl. aor. imp. med.	ἵημι ‘senden’
+ἕσθαι	inf. aor. med.	ἵημι ‘senden’
+ἕμενος	part. aor. med. nom. sg. m.	ἵημι ‘senden’
+ἥσω	1. pers. sg. fut. ind. act.	ἵημι ‘senden’
+εἵθην	1. pers. sg. aor. ind. pass.	ἵημι ‘senden’
+εἷκα	1. pers. sg. perf. ind. act.	ἵημι ‘senden’
+εἷμαι	1. pers. sg. aor. ind. med-pass.	ἵημι ‘senden’
+

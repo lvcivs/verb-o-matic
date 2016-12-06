@@ -1,0 +1,54 @@
+ὁ βασιλεύς	der König, der Herrscher	
+χαίρω	sich freuen	
+χαῖρε	sei gegrüsst!, guten Tag!	
+ἐγώ	ich	
+ἐμοῦ	mein(er)	
+ἐμοί	mir	
+ἐμέ	mich	
+μου	mein(er)	unbetont, Gen.
+μοι	mir	unbetont, Dat.
+με	mich	unbetont, Akk.
+ἡ τύχη	das Schicksal, der Zufall, das Glück, das Unglück	
+ἡ δόξα	die Meinung, der Ruf, der gute Ruf, der Ruhm	
+προέχω	vor jmdm etw voraus haben	
+σύ	du	
+σοῦ	dein(er)	
+σοί	dir	
+σέ	dich	
+σου	dein(er)	unbetont, Gen.
+σοι	dir	unbetont, Dat.
+σε	dich	unbetont, Akk.
+προέχω σοῦ	ich habe dir etw voraus, ich bin dir überlegen	
+ἡ παιδεία	die Erziehung, die Bildung	
+τέλειος, α, ον	vollendet, vollkommen	
+ἡ εὐδαιμονία	das Glück, der Wohlstand	
+διό	weshalb, deshalb	
+γράφω	schreiben, malen	
+πρός	zu ... hin, gegen	
+ἐλπίζω	hoffen, ahnen	
+μή	nicht	
+ἀντιλέγω	widersprechen	
+νῦν	jetzt	
+ὀλίγοι	wenige	
+παιδεύω	erziehen, bilden	
+ἡμεῖς	wir	
+ἡμῶν	unser	
+ἡμῖν	uns	Dat.
+ἡμᾶς	uns	Akk.
+ὑμεῖς	ihr	
+ὑμῶν	euer	
+ὑμῖν	euch	Dat.
+ὑμᾶς	euch	Akk.
+ἄγω	führen, treiben, ziehen, marschieren	
+ἐπί	zu ... hin, gegen	
+ἐπὶ τὴν ἀρετὴν ἄγειν	zur Tugend hinführen	
+οὕτως	so	
+οὕτω	so	
+ὁ δῆμος	die Gemeinde, die Heimatgemeinde, das Volk	
+παρασκευάζω	bereitmachen, einrichten, arrangieren	
+κατασκευάζω	bereitmachen, einrichten, arrangieren	
+πρὸς ἡμᾶς	zu uns	R 14: Akk. als Richtungs- und Zielkasus
+Γράφω σοι ἥκειν πρὸς ἐμέ.	Ich schreibe dir## dass du zu mir kommen sollst.	R 15: Infinitiv mit finaler Bedeutung
+Οὐ γράφετε.	Ihr schreibt nicht.	R16a: Feststellung
+Μὴ γράφετε.	Schreibt nicht!	R16b: Verneinte Aufforderung bzw. Verbot
+᾽Ελπίζω σε μὴ ἀντιλέγειν.	Ich hoffe## dass du nicht widersprichst.	R17

@@ -1,0 +1,15 @@
+a	open front unrounded vowel	German <i>Rat</i> [ˈʀaːt]	http://en.wikipedia.org/wiki/Open_front_unrounded_vowel	Open_front_unrounded_vowel.ogg
+ɯ	close back unrounded vowel	Scottish Gaelic <i>caol</i> [kʰɯːl̪ˠ] 'thin'	http://en.wikipedia.org/wiki/Close_back_unrounded_vowel	Close_back_unrounded_vowel.ogg
+ʉ	close central rounded vowel	Norwegian <i>hus</i> [hʉ͍ːs] 'house'	http://en.wikipedia.org/wiki/Close_central_rounded_vowel	Close_central_rounded_vowel.ogg
+ɨ	close central unrounded vowel	English <i>roses</i> [ˈɹoʊzɨz] 'roses'	http://en.wikipedia.org/wiki/Close_central_unrounded_vowel	Close_central_unrounded_vowel.ogg
+ɤ	close-mid back unrounded vowel	Irish <i>Uladh</i> [ɤlˠu] 'Ulster'	http://en.wikipedia.org/wiki/Close-mid_back_unrounded_vowel	Close-mid_back_unrounded_vowel.ogg
+ɘ	close-mid central unrounded vowel	New Zealand English <i>fish</i> [fɘʃ] fish	http://en.wikipedia.org/wiki/Close-mid_central_unrounded_vowel	Close-mid_central_unrounded_vowel.ogg
+e	close-mid front unrounded vowel	German <i>Seele</i> [ˈzeːlə] 'soul'	http://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel	Close-mid_front_unrounded_vowel.ogg
+ə	mid central vowel	English <i>human</i> [ˈçjuːmən] 	http://en.wikipedia.org/wiki/Mid_central_vowel	Schwa.ogg
+ɛ	open-mid front unrounded vowel	German <i>Bett</i> [bɛt] 'bed'	http://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel	Open-mid_front_unrounded_vowel.ogg
+i	close front unrounded vowel	English <i>free</i> [friː] 'free'	http://en.wikipedia.org/wiki/Close_front_unrounded_vowel	Close_front_unrounded_vowel.ogg
+ʊ	near-close near-back rounded vowel	German <i>Schutz</i> [ʃʊts] 'protection'	http://en.wikipedia.org/wiki/Near-close_near-back_rounded_vowel	Near-close_near-back_rounded_vowel.ogg
+ʏ	near-close near-front rounded vowel	German <i>schützen</i> [ˈʃʏtsˑn] 'protect'	http://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel	Near-close_near-front_rounded_vowel.ogg
+ɪ	near-close near-front unrounded vowel	English <i>bit</i> [bɪt] 'bit'	http://en.wikipedia.org/wiki/Near-close_near-front_unrounded_vowel	Near-close_near-front_unrounded_vowel.ogg
+ɐ	near-open central vowel	German <i>Ober</i> [ˈoːbɐ] 'waiter'	http://en.wikipedia.org/wiki/Near-open_central_vowel	Near-open_central_unrounded_vowel.ogg
+o	close-mid back rounded vowel	German <i>Kohl</i> [kʰoːl] 'cabbage'	http://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel	Close-mid_back_rounded_vowel.ogg

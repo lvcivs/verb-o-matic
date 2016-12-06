@@ -1,0 +1,9 @@
+ë ä	centralized articulation		http://en.wikipedia.org/wiki/Centralization_(phonetics)	
+e̞ β̞	lowered articulation		http://en.wikipedia.org/wiki/Relative_articulation#Raised_and_lowered	
+e̝ ɹ̝	raised articulation		http://en.wikipedia.org/wiki/Relative_articulation#Raised_and_lowered	
+t̼ d̼	linguolabial articulation		http://en.wikipedia.org/wiki/Linguolabial_consonant	
+e̽ ɯ̽	mid-centralized articulation		http://en.wikipedia.org/wiki/Mid-centralized_vowel	
+ẽ z̃	nasalized co-articulation		http://en.wikipedia.org/wiki/Nasalization	
+ɚ ɝ	rhotacized co-articulation		http://en.wikipedia.org/wiki/R-colored_vowel	
+e̘ o̘	advanced tongue root co-articulation		http://en.wikipedia.org/wiki/Advanced_tongue_root	
+e̙ o̙	retracted tongue root co-articulation		http://en.wikipedia.org/wiki/Retracted_tongue_root	

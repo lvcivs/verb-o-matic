@@ -1,0 +1,23 @@
+ἀναγκάζω	zwingen	
+ὑπό	unter, von	beim Passiv wie L 'ab'
+τις, τι	irgendwer, jemand, irgend etwas	
+ἀναγκάζεται ὑπό τινος	er wird von jmdm gezwungen	
+κωλύω	hindern, verhindern, abhalten	
+αὐτός, ή, ό	selbst	
+κακός, ή, όν	schlecht, schlimm, böse	
+τὸ κακόν	das Unglück, der Schaden	
+πράττω	betreiben, tun, handeln	
+βλάπτω	schädigen	
+μόνον	nur	
+γίγνομαι	werden, entstehen	
+ἡ φιλία	die Freundschaft	
+φαῦλος, η, ον	minderwertig, schlecht	
+ἔξεστιν	es ist möglich, es ist erlaubt	
+κοινός, ή, όν	gemeinsam, öffentlich	
+κοινὸς τῶν φίλων	den Freunden gemeinsam	
+κοινὸς τοῖς φίλοις	den Freunden gemeinsam	
+ἀναγκάζεται	er wird gezwungen, er lässt sich zwingen	R18
+ἐν τοῖς σοφοῖς	unter den Weisen	R19
+᾽Εν τοῖς φαύλοις φιλίαν γίγνεσθαι οὐκ ἔξεστιν.	Dass unter den Schlechten Freundschaft entsteht## ist nicht möglich.	R20: bei unpersönlichen Ausdrücken steht der AcI als Subjekt
+῾Η δικαιοσύνη ἀρετὴ νομίζεται.	Die Gerechtigkeit wird für eine Tugend gehalten.	R21a: doppelter Nominativ
+῾Η δικαιοσύνη ἀρετὴ εἶναι νομίζεται.	man glaubt## die Gerechtigkeit sei eine Tugend	R21b: NcI

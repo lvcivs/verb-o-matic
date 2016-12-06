@@ -1,0 +1,10 @@
+ɹ̩ n̩	syllabicity		http://en.wikipedia.org/wiki/Syllabic_consonant	
+e̯ ʊ̯	non-syllabicity		http://en.wikipedia.org/wiki/Syllabic_consonant	
+tʰ ʰt	(pre)aspiration		http://en.wikipedia.org/wiki/Aspiration_(phonetics)	
+dⁿ	nasal release		http://en.wikipedia.org/wiki/Nasal_release	
+dˡ	lateral release		http://en.wikipedia.org/wiki/Lateral_release_(phonetics)	
+d̚	no audible release		http://en.wikipedia.org/wiki/Unreleased_stop	
+n̥ d̥	voiceless or slack voice		http://en.wikipedia.org/wiki/Voiceless_consonant	
+s̬ t̬	modal voice or stiff voice		http://en.wikipedia.org/wiki/Modal_voice	
+b̤ a̤ 	breathy voice		http://en.wikipedia.org/wiki/Breathy_voice	
+b̰ a̰ 	creaky voice		http://en.wikipedia.org/wiki/Creaky_voice	

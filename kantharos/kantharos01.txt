@@ -1,0 +1,29 @@
+ὁ φιλόσοφος	der Philosoph	
+ἑπτά	sieben	
+ὁ σοφός	der Weise, der Sachverständige	
+περί	über, von, betreffs	
+ὁ κόσμος	die Ordnung, der Schmuck, die Weltordnung, die Welt, der Kosmos	
+λέγω	sagen, reden, nennen	
+ὁ νόος	der Sinn, der Verstand	
+ἔχω	haben, halten	
+ὥσπερ	wie	
+καί	und, auch, sogar	
+ὁ ἄνθρωπος	der Mensch	
+δέ	aber	nachgestellt
+ὁ θεός	der Gott	
+ὁ δὲ θεός	der Gott aber	
+ἐστί(ν)	er/sie/es ist	
+εἰσί(ν)	sie sind	
+ὅτι	weil, da, dass	
+πολλοί	viele	Nom.pl.m.
+ἐν	in	
+ὁ οὐρανός	der Himmel	
+νομίζω	etw als verbindlich anerkennen, glauben, für etw halten	
+Θαλῆς ὁ φιλόσοφος	der Philosoph Thales	R1: Apposition
+Περὶ τοῦ κόσμου λέγει.	Er redet über den Kosmos.	R2: Genitiv des Bereichs
+ὁ τοῦ κόσμου νόος	der Verstand des Kosmos	R3
+῾Ο τοῦ κόσμου νόος θεός ἐστιν.	Der Verstand der Welt ist (ein) Gott.	R4a: Enklisis
+Θαλῆς φιλόσοφός ἐστιν.	Thales ist ein Philosoph	R4b
+Πολλοὶ κόσμοι εἰσίν.	Es gibt viele Welten.	R4c
+ἐν τῷ κόσμῳ	im Weltall	R5
+Τοὺς οὐρανοὺς θεοὺς νομίζει.	Er hält die Himmel für Götter.	R6: Doppelter Akk.

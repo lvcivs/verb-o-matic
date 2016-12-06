@@ -1,0 +1,30 @@
+κατηγορέω	jmdn anklagen	mit Gen.
+Σωκράτους κατηγορεῖν	Sokrates anklagen	
+ἀπολογέομαι	sich verteidigen	
+λαμβάνω	nehmen, ergreifen, bekommen	
+ἐργάζομαι	arbeiten, verfertigen	
+καίω	anzünden, verbrennen	
+ἀπολαμβάνω	wegnehmen, absondern, einzeln vornehmen	
+τί ἔχεις εἰπεῖν;	was hast du zu sagen?	
+ὑγιεινός	gesund	
+πόσος	wie gross?, wieviel?	
+ἀναβοάω	aufschreien	
+μέγα ἀναβοᾶν	laut aufschreien	
+ὁ δικαστής	der Richter	
+τὸ πάθος	das Erlebnis, das Leiden, das Missgeschick	
+τὸ δικαστήριον	das Gericht, der Gerichtshof	
+ἡ κατηγορία	die Anklage	
+ὑπάρχω	anfangen, vorhanden sein, zur Verfügung sein	
+ἀληθής	wahr, ehrlich	
+περὶ πολλοῦ ποιοῦμαι	hoch schätzen	
+περὶ πλείονος ποιοῦμαι	höher schätzen	
+περὶ πλείστου ποιοῦμαι	am höchsten schätzen	
+-περ	(Suffix zur Verstärkung)	
+ὅσπερ	eben der## welcher	
+ἡ ζημία	die Strafe	
+᾽Ιατρὸς ἂν κρίνοιτο.	Ein Arzt könnte/dürfte wohl verurteilt werden., Ein Arzt würde möglicherweise verurteilt.	R98a
+Εἰ ἰατροῦ κατηγοροῖ τις, κρίνοιτο ἄν.	Wenn jemand einen Arzt verklagte## würde dieser (der Arzt) wohl verurteilt.	R98b
+Οἴομαι μέγα ἂν ἀναβοῆσαι τοὺς τοιούτους δικαστάς.	Ich glaube## dass Richter solcher Art wohl laut aufschreien würden.	R98c
+Εἰ αὐτοῦ κατηγοροῖ τις λέγων, ὅτι ῏Ω παῖδες, ...	Falls ihn jemand anklagen sollte## indem er sagte: Kinder## ...	R99
+πολλὰ καὶ κακὰ ἔθη	viele schlechte Gewohnheiten	R100
+Περὶ πολλοῦ ἂν ποιησαίμην τὸ πράους ὑμᾶς ἐμοὶ δικαστὰς γενέσθαι.	Ich gäbe viel darum## wenn ihr mir gegenüber milde Richter wäret.	R101
