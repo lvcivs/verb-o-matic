@@ -24,10 +24,10 @@ include 'header.php';
 
 
 <div class="mono">
-<h2>links</h2>
+<h2>Links</h2>
 
 <p>
-there are quite a few similar/related ressources on the internet. you may want to have a look at: 
+There are some related ressources on the Internet. You may also want to have a look at: 
 </p>
 
 <ul>
@@ -37,12 +37,12 @@ there are quite a few similar/related ressources on the internet. you may want t
 <li><a href="http://www.lucius-hartmann.ch/unterricht/">lucius-hartmann.ch</a><br> Greek and Latin exercises, vocabulary trainer (JavaApplet) etc. by Lucius Hartmann<br>
 [many exercises, requires Java Applet, no open source (some parts are commercial)]
 </li>
-<li><a href="http://www.gottwein.de/Inhalt.php">gottwein.de</a><br> Grammar and exercises for Greek and Latin<br>
-[horrible design, but lots of information]
+<li><a href="http://www.gottwein.de">gottwein.de</a><br> Grammar and exercises for Greek and Latin<br>
+[questionable design, but lots of information]
 </li>
 </ul>
 <br>
-<a href="index.php">back to the index</a>
+<a href="index.php">Back to the index</a>
 </div>
 
 <?php include 'footer.php';?>

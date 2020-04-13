@@ -24,45 +24,46 @@ include 'header.php';
 
 
 <div class="mono">
-<h2>about verb-o-matic</h2>
+<h2>About verb-o-matic</h2>
 
 <p>
-verb-o-matic is an open source web application designed to assist people in learning foreign languages online. it currently features two kinds of exercises: simple vocabulary training, and identification of verb forms.
+Verb-o-matic is an open source web application designed to assist people who want to learn foreign or ancient languages or IPA symbols online. It currently features three kinds of exercises: 1) a vocabulary training exercise, 2) a verb form identification exercise, 3) an IPA symbols exercise.
 </p>
 
-<h2>system requirements</h2>
+<h2>System requirements</h2>
 
-<p>you need an up-to-date browser to use verb-o-matic properly. i recommend to use firefox >=2.0. you need to have javascript enabled, but you don't need cookies. there are some known issues with older browser like internet explorer 5 or safari 2.
+<p>You need an up-to-date browser to use verb-o-matic properly. I recommend to use a recent version of Firefox. You need to have Javascript enabled, but you don't need cookies. There are some known issues with older browser.
 </p>
 <h2>WARNING</h2>
-<p>please note that there may still be many issues with verb-o-matic, in both the code and the content. please report any issues you find to the <a href="http://code.google.com/p/verb-o-matic/issues/list">bugtracker</a>.</p>
+<p>Please note that there may still be issues with verb-o-matic, in both the code and the content. Please report any issues you find to the <a href="https://github.com/lvcivs/verb-o-matic/issues">bugtracker</a>.</p>
 
-<h2>contribute</h2>
-<p>you are more than welcome to contribute to verb-o-matic! please check out the source code and the data on the <a href="http://code.google.com/p/verb-o-matic/">project page at google</a>. all content of the exercises are in plain utf-8 encoded text files, which should make it hopefully easy for you to design your own exercises, if you wish to do so.</p>
+<h2>Contribute</h2>
+<p>You are more than welcome to contribute to verb-o-matic! Please check out the source code and data on <a href="https://github.com/lvcivs/verb-o-matic">Github</a>. All content of the exercises are in plain UTF-8 encoded text files, which should make it hopefully easy for you to design your own exercises, if you wish to do so.</p>
+<p>(Earlier, it used to be hosted on <a href="https://code.google.com/archive/p/verb-o-matic">Google Code</a>.)</p>
 
-<h2>credits</h2>
-<p>concept, design &amp; code: luzius thöny (lucius dot antonius at gmail dot com)
+<h2>Credits</h2>
+<p>Concept, design &amp; code: Luzius Thöny (lucius dot antonius at gmail dot com)
 <br>
-icons: courtesy of the <a href="http://tango.freedesktop.org/Tango_Icon_Gallery">Tango Icon Gallery</a>.
-sound recordings: from wikipedia. thanks to the following recorders:
+Icons: courtesy of the <a href="http://tango.freedesktop.org/Tango_Icon_Gallery">Tango Icon Gallery</a>.
+Sound recordings: from Wikipedia. Thanks to the following recorders:
 <ul>
 <li>Peter Isotalo</li>
 <li>Denelson83</li>
 <li>TheMexican</li>
 </ul>
-the sound files are licensed under the <i>GNU Free Documentation License</i> / <i>Creative Commons Attribution ShareAlike 3.0 License</i>. 
+The sound files are licensed under the <i>GNU Free Documentation License</i> / <i>Creative Commons Attribution ShareAlike 3.0 License</i>. 
 <br>
 
 </p>
 
-<h2>code license</h2>
-<p>the code is licensed under the GPL3.</p>
+<h2>Code license</h2>
+<p>The code is licensed under the GPL3.  </p>
 
-<h2>content license</h2>
-<p>all content created by me is licensed under the <i>Creative Commons Attribution ShareAlike 3.0 License</i>. 
+<h2>Content license</h2>
+<p>All content created by me is licensed under the <i>Creative Commons Attribution ShareAlike 3.0 License</i>. 
 </p>
 
-<a href="index.php">back to the index</a>
+<a href="index.php">Back to the index</a>
 </div>
 
 <?php include 'footer.php';?>

@@ -24,26 +24,27 @@ include 'header.php';
 
 
 <div class="mono">
-<h1>frequently asked questions (faq)</h1>
+<h1>Frequently asked questions (FAQ)</h1>
 
 <p>&nbsp;
 </p>
 
-<h2>why do some special characters not display properly? why don't I see the IPA-symbols? </h2>
+<h2>Why do some special characters not display properly? Why don't I see the IPA-symbols? </h2>
 
-<p>you need to have fonts installed that support these special characters. most modern operating systems have fonts installed by default that support a wide range of symbols, including the letters of the international phonetic alphabet (IPA). however, in some cases it might be necessary to install additional fonts. i recommend to install <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=Gentium">gentium</a>, <a href="http://junicode.sourceforge.net/">junicode</a>, <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=DoulosSILfont">doulos</a> or <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=CharisSILfont">charis</a>.
+<p>You need to have fonts installed that support these special characters. Most modern operating systems have fonts installed by default that support a wide range of symbols, including the letters of the international phonetic alphabet (IPA). However, in some cases it might be necessary to install additional fonts. I recommend to install <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=Gentium">Gentium</a>, <a href="http://junicode.sourceforge.net/">Junicode</a>, <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=DoulosSILfont">Doulos</a> or <a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=CharisSILfont">Charis</a>.
 </p>
 
-<h2>where did you get the content from?</h2>
-<p>greek verb exercises: these have been designed by me. they are based on the grammars by <a href="http://www.buch.ch/shop/bch_start_startseite/suchartikel/griechische_grammatik/eduard_bornemann/ISBN3-425-06850-4/ID3023264.html?jumpId=2762020">bornemann/risch</a> and <a href="http://www.buch.ch/shop/bch_buc_startseite/suchartikel/grammateion_kurz_gefasst/karl_lahmer/ISBN3-12-670170-1/ID1129893.html?jumpId=2762075">grammateion</a>.</p>
-<p>latin vocabulary exercises: i typed the words of these from the school books "latinum" and "adeo".</p>
-<p>greek vocabulary exercises: these have been copied by hand from the book "kantharos" by some fellow students at my university (thanks!).</p>
+<h2>Where did you get the content from?</h2>
+<p>Greek verb exercises: these have been designed by me. They are based on the grammars by <a href="http://www.buch.ch/shop/bch_start_startseite/suchartikel/griechische_grammatik/eduard_bornemann/ISBN3-425-06850-4/ID3023264.html?jumpId=2762020">Bornemann/Risch</a> and <a href="http://www.buch.ch/shop/bch_buc_startseite/suchartikel/grammateion_kurz_gefasst/karl_lahmer/ISBN3-12-670170-1/ID1129893.html?jumpId=2762075">Grammateion</a>.</p>
+<p>Latin vocabulary exercises: I took the words of these from the school books "Latinum" and "Adeo".</p>
+<p>Greek vocabulary exercises: these have been copied by hand from the book "Kantharos" by some fellow students at my university (thanks!).</p>
+<p>Japanese exercises: these have been copied by me from the book "Minna no nihongo".</p>
 
-<h2>is it possible to use the keyboard to navigate verb-o-matic?</h2>
-<p>to some degree, yes. on most browsers, you can move to the next stage of the exercise by pressing the ENTER key on your keyboard, even if there is no input field. for the vocabulary test pages, this means that you don't have to touch the mouse at all to complete the exercise!</p>
+<h2>Is it possible to use the keyboard to navigate verb-o-matic?</h2>
+<p>To some degree, yes. On most browsers, you can move to the next stage of the exercise by pressing the ENTER key on your keyboard, even if there is no input field. For the vocabulary test pages, this means that you don't have to touch the mouse at all to complete the exercise.</p>
 
 <br>
-<a href="index.php">back to the index</a>
+<a href="index.php">Back to the index</a>
 </div>
 
 <?php include 'footer.php';?>

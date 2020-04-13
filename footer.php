@@ -19,7 +19,7 @@ This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
 
 </div> <!-- main -->
 <img src="footer.png" alt="footer">
-<div id="contact"><a href="about.php">about</a> · <a href="faq.php">faq</a> · <a onclick="window.open(this.href);return false;" href="http://code.google.com/p/verb-o-matic/source/checkout">get the code</a> · <a onclick="window.open(this.href);return false;" href="http://code.google.com/p/verb-o-matic/issues/list">report a problem</a> · <a href="links.php">links</a></div>
+<div id="contact"><a href="about.php">About</a> · <a href="faq.php">FAQ</a> · <a onclick="window.open(this.href);return false;" href="https://github.com/lvcivs/verb-o-matic">Get the code</a> · <a onclick="window.open(this.href);return false;" href="https://github.com/lvcivs/verb-o-matic/issues">Report a problem</a> · <a href="links.php">Links</a></div>
 &nbsp;<!--  <- strange layout hack - this makes sure the container <div> does not jump around-->
 </div><!-- container -->
 
