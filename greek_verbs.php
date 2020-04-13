@@ -18,8 +18,8 @@ This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
 session_start();
 header('Content-Type: text/html; charset=utf-8');
 
-$loadData=$HTTP_GET_VARS["loadData"];
-$dataDir=$HTTP_GET_VARS["dir"];
+$loadData=$_GET["loadData"];
+$dataDir=$_GET["dir"];
 
 
 

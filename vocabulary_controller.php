@@ -21,7 +21,7 @@ header('Content-Type: text/html; charset=utf-8');
 
 $data = $_SESSION["data"];
 $currentLemma = $_SESSION["currentLemma"];
-$feedback = $HTTP_GET_VARS["feedback"]; 
+$feedback = $_GET["feedback"]; 
 
 // handle feedback
 $i = $data[$currentLemma][1];

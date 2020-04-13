@@ -19,11 +19,11 @@ This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
 session_start();
 header('Content-Type: text/html; charset=utf-8');
 
-$userSolutions["solution01"] = array($HTTP_GET_VARS["solution01"], 0); // 0 = correct, 1 = wrong
-$userSolutions["solution02"] = array($HTTP_GET_VARS["solution02"], 0);
-$userSolutions["solution03"] = array($HTTP_GET_VARS["solution03"], 0);
-$userSolutions["solution04"] = array($HTTP_GET_VARS["solution04"], 0);
-$userSolutions["solution05"] = array($HTTP_GET_VARS["solution05"], 0);
+$userSolutions["solution01"] = array($_GET["solution01"], 0); // 0 = correct, 1 = wrong
+$userSolutions["solution02"] = array($_GET["solution02"], 0);
+$userSolutions["solution03"] = array($_GET["solution03"], 0);
+$userSolutions["solution04"] = array($_GET["solution04"], 0);
+$userSolutions["solution05"] = array($_GET["solution05"], 0);
 
 
 $data = $_SESSION["data"];

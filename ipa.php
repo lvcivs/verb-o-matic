@@ -18,8 +18,8 @@ This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
 session_start();
 header('Content-Type: text/html; charset=utf-8');
 
-$loadData = $HTTP_GET_VARS["loadData"];
-$dataDir = $HTTP_GET_VARS["dir"];
+$loadData = $_GET["loadData"];
+$dataDir = $_GET["dir"];
 
 
 
@@ -28,7 +28,7 @@ $currentIPAName = $_SESSION["currentIPAName"];
 $exerciseName = $_SESSION["exerciseName"];
 $catArray = $_SESSION["catArray"];
 $buttonsFile = $_SESSION["buttonsFile"];
-if (empty($buttonsFile)) $buttonsFile = $HTTP_GET_VARS["buttonsFile"] . ".php";
+if (empty($buttonsFile)) $buttonsFile = $_GET["buttonsFile"] . ".php";
 
 // prepare the javascript string to be passed into the javascript function (in order to "compile" a solution string)
 if (empty($catArray)) {

@@ -18,7 +18,7 @@ This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
 session_start();
 header('Content-Type: text/html; charset=utf-8');
 
-$userSolutionsString = $HTTP_GET_VARS["solutions"]; 
+$userSolutionsString = $_GET["solutions"]; 
 //echo $userSolutionsString;
 // find and replace some commas - for cases like "der, welcher", which should be *one* solution
 $userSolutionsString = str_replace("\\", "", $userSolutionsString);

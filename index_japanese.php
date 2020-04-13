@@ -32,7 +32,11 @@ include 'header.php';
 
 <h3>Japanese &gt; German</h3>
 <p>
-<a href="vocabulary.php?loadData=japanese01&amp;dir=japanese">Japanese 01</a><br>
+<a href="vocabulary.php?loadData=minna01kana&amp;dir=japanese">Minna no Nihongo L01 (Kana)</a><br>
+<a href="vocabulary.php?loadData=minna02kana&amp;dir=japanese">Minna no Nihongo L02 (Kana)</a><br>
+<a href="vocabulary.php?loadData=minna03kana&amp;dir=japanese">Minna no Nihongo L03 (Kana)</a><br>
+<a href="vocabulary.php?loadData=minna04kana&amp;dir=japanese">Minna no Nihongo L04 (Kana)</a><br>
+<a href="vocabulary.php?loadData=minna05kana&amp;dir=japanese">Minna no Nihongo L05 (Kana)</a><br>
 </p>
 
 

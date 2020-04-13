@@ -25,7 +25,7 @@ include 'header.php';
 
 ?>
 <div class="mono"> 
-	<a href="index_greek.php"><img src="ancient_greek.png" alt="ancient greek"></a> <a href="index_latin.php"><img src="latin.png" alt="latin"></a> <a href="index_ipa.php"><img src="ipa.png" alt="latin"><a href="index_japanese.php">Japanese</a>
+	<a href="index_greek.php"><img src="ancient_greek.png" alt="ancient greek"></a> <a href="index_latin.php"><img src="latin.png" alt="latin"></a> <a href="index_ipa.php"><img src="ipa.png" alt="latin"><a href="index_japanese.php"><img src="japanese.png" alt="japanese"></a>
 	<!-- <a href="index_ipa.php"><img src="ipa.png"></img></a>-->
 </div>
 <?php include 'footer.php';?>

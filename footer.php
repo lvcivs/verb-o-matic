@@ -1,4 +1,4 @@
-<?
+<?php
 /*
 This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
 
