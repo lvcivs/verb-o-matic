@@ -57,7 +57,7 @@ foreach($arrayKeys as &$userSolutionKey) {
 }
 
 // find missed solutions
-$missedSolutions = "";
+$missedSolutions = array();
 foreach($goldSolutions as &$goldSolution) {
 	$found = 0;
 	foreach($arrayKeys as &$userSolutionKey) {

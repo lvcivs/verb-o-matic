@@ -41,7 +41,7 @@ $userSolutionsString = str_replace("\"", "", $userSolutionsString);
 
 $userSolutionsArray = explode(",", $userSolutionsString);
 
-$userSolutions = "";
+$userSolutions = array();
 foreach($userSolutionsArray as &$userSolution) {
 	$s = trim($userSolution);
 	$s = str_replace("# ", ", ", $s);
@@ -74,7 +74,7 @@ function lax_string_compare($a, $b) {
 // mark correct solutions in $goldSolutions
 
 $tmp = $data[$currentLemma][0];
-$goldSolutions = "";
+$goldSolutions = array();
 if (gettype($tmp) != 'array') $tmp = array($tmp);
 foreach($tmp as &$goldSolution) {
 	if ($goldSolution != "") $goldSolutions[$goldSolution] = 0;
@@ -100,7 +100,7 @@ else {
 }
 
 // find surplus solutions
-$surplusSolutions = "";
+$surplusSolutions = array();
 $arrayKeys = array_keys($userSolutions);
 foreach($arrayKeys as &$userSolution) {
 	$found = 0;

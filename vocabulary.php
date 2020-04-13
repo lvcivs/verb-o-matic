@@ -34,13 +34,13 @@ $currentLemma = $_SESSION["currentLemma"];
 
 //set things up
 if ($loadData != "") {
-	$data = "";
+	$data = array();
 	$fileArray = file($dataDir . "/" . $loadData . ".txt");
 	foreach ($fileArray as &$line) {
 		$chunks = explode("	", $line);
 		$lemma = trim($chunks[0]);
 		$goldSolutionsArray = explode(",", $chunks[1]);
-		$goldSolutions = "";
+		$goldSolutions = array();
 		foreach ($goldSolutionsArray as &$goldSolution) {
 			$goldSolutions[] = str_replace("## ", ", ", trim($goldSolution));
 		}

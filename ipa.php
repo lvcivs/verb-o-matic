@@ -52,7 +52,7 @@ if (empty($catArray)) {
 
 //load new data from file and set things up
 if ($loadData != "") {
-	$data = "";
+	$data = array();
 	$fileArray = file($dataDir . "/" . $loadData . ".txt");
 	foreach ($fileArray as &$line) {
 		$chunks = explode("	", $line);

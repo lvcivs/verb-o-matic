@@ -27,10 +27,16 @@ $data = $_SESSION["data"];
 $currentWordForm = $_SESSION["currentWordForm"];
 $exerciseName = $_SESSION["exerciseName"];
 
+//~ function console_log( $data ){
+  //~ echo '<script>';
+  //~ echo 'console.log('. json_encode( $data ) .')';
+  //~ echo '</script>';
+//~ }
+
 
 //set things up
 if ($loadData != "") {
-	$data = "";
+	$data = array();
 	$fileArray = file($dataDir . "/" . $loadData . ".txt");
 	foreach ($fileArray as &$line) {
 		$chunks = explode("	", $line);
@@ -38,7 +44,11 @@ if ($loadData != "") {
 		$solutions = $chunks[1];
 		$lemma = $chunks[2];
 		$data[$wordForm] = array($solutions, 0, $lemma);
+		//~ console_log($wordForm);
+		//~ console_log(count($data));
 	}
+	
+	//~ console_log(var_export($data));
 	selectEntry();
 	$_SESSION["totalWordForms"] = count($data);
 	$_SESSION["tries"] = 0;
@@ -54,9 +64,12 @@ function selectEntry() {
 	while ($done==0) {
 		if (gettype($data) != 'array') $data = array($data);
 		$randomWordForm = array_rand($data);
+		//~ console_log('rand: ' . $randomWordForm);
 		if (($currentWordForm != $randomWordForm) || count($data==1)) { // never show the same wordForm twice, except if it's the last one
 			$currentWordForm = $randomWordForm;
 			$done = 1;
+			//~ console_log('curr: ' . $currentWordForm);
+
 		}
 	}
 }
