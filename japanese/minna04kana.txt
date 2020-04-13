@@ -1,0 +1,68 @@
+デパート 	Kaufhaus
+ぎんこう 	Bank
+ゆうびんきょく 	Postamt
+としょかん 	Bibliothek, Bücherei
+びじゅつかん 	Kunstmuseum
+やすみ 	Pause, Ruhetag, Ferien
+ひるやすみ 	Mittagspause
+ばんごう 	Nummer, Telefonnummer, Zimmernummer
+けいさつしょ 	Polizei
+しょうほうしょ 	Feuerwehr, Erste Hilfe
+でんきよほう 	Wettervorhersage, Wetteransage
+でんわばんごう あんない 	Telefonauskunft 
+ねます 	schlafen, ins Bett gehen 	(1) nete
+はたらきます 	arbeiten 	(1) hataraite
+やすみます 	sich ausruhen, Pause machen, Urlaub nehmen 	(1) yasunde
+おわります 	enden, beenden 	(1) owatte
+おきます 	aufstehen, erwachen 	(1) okite
+なんじ 	wie spät, wieviel Uhr
+なんぷん 	wie viel Minuten, welche Minute
+なんようび 	welcher Wochentag
+なんばん 	welche Nummer
+そちら 	bei Ihnen, (im Kaufhaus, Firma ... )
+ニューヨーク 	New York
+ペキン 	Peking
+ロンドン 	London
+バンコク 	Bangkok
+ロサンゼルス 	Los Angeles
+いま 	jetzt
+... じ 	... Uhr
+... ふん 	... Minuten
+はん 	Hälfte, halb
+ごぜん 	Vormittag, vormittags
+ごご 	Nachmittag, nachmittags
+ばん 	Abend, abends
+よる 	Nacht, nachts
+おととい 	vorgestern
+きのう 	gestern
+きょう 	heute
+あした 	morgen
+あさって 	übermorgen
+けさ 	heute morgen
+こんばん 	heute abend
+まいあさ 	jeden Morgen
+まいばん 	jeden Abend
+まいにち 	jeden Tag
+げつようび 	Montag
+かようび 	Dienstag
+すいようび 	Mittwoch
+もくようび 	Donnerstag
+きんようび 	Freitag
+どようび 	Samstag
+にちようび 	Sonntag
+たいへん です ね 	Das ist anstrengend,_nicht wahr?
+おねがい します 	Bitte, Ich bitte um einen Gefallen
+かしこまりました 	Jawohl, Sicher doch!
+おといあわせ の ばんごう 	Ihre gewünschte Nummer
+ありがとう ございます 	Vielen Dank! 
+から 	von0
+まで 	bis0
+と 	und0 
+
+
+
+
+
+
+
+

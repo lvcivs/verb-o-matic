@@ -1,0 +1,54 @@
+わたし 	ich
+わたしたち 	wir
+あなた 	Sie
+あの ひと 	die Person
+... さん 	Herr, Frau, Anrede
+... ちゃん 	Anrede Kinder
+... くん 	Anrede Junge
+... じん 	Suffix Nationalität
+せんせい 	Lehrer
+きょうし 	Dozent, Lehrkraft
+がくせい 	Schüler, Student
+かいしゃいん 	Angestellter
+ぎんこういん 	Bankangestellter
+いしゃ 	Arzt
+けんきゅうしゃ 	Forscher
+だいがく 	Universität
+びょういん 	Krankenhaus
+でんき 	Strom, Elektrizität, Licht
+... さい 	... Jahre alt
+エンジニア 	Ingenieur 
+べんきょうします 	studieren, lernen
+だれ 	wer
+なんさい 	wie alt
+アメリカ 	USA
+イギリス 	Großbritannien
+インド 	Indien
+ドイツ 	Deutschland
+タイ 	Thailand
+かんこく 	Südkorea
+ちゅうごく 	China
+フランス 	Frankreich
+ブラジル 	Brasilien
+インドネシア 	Indonesien
+ゼロ, れい 	null
+いち 	eins
+に 	zwei
+さん 	drei
+よん, し 	vier
+ご 	fünf
+ろく 	sechs
+なな, しち 	sieben
+はち 	acht
+きゅう, く 	neun
+じゅう 	zehn
+いち おく 	100 Millionen
+みなさん 	meine Damen und Herren
+お なまえ は 	Wie heissen Sie?
+はじめまして 	Darf ich mich vorstellen
+こちら は 	Das hier ist
+から きました 	Ich komme aus
+しつれい　です　が 	Entschuldigen Sie bitte, aber...
+どうぞ　よろしく　おねがいします 	Darf ich mich vorstellen
+はい 	ja
+いいえ 	nein

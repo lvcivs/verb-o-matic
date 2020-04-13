@@ -1,0 +1,50 @@
+ほん 	Buch
+じしょ 	Wörterbuch
+ざっし 	Zeitschrift
+しんぶん 	Zeitung
+ノート 	Heft
+てちょう 	Notizbuch
+めいし 	Visitenkarte
+カード 	Karte
+えんぴつ 	Bleistift
+ボールペン 	Kugelschreiber
+かぎ 	Schlüssel
+とけい 	Uhr
+かさ 	Schirm
+かばん 	Tasche
+テープ 	Kassette
+テープレコーダー 	Kassettenrekorder
+テレビ 	Fernseher
+ラジオ 	Radio
+カメラ 	Kamera
+コンピューター 	Computer
+じどうしゃ 	Auto, Automobil
+つくえ 	Schreibtisch
+いす 	Stuhl
+チョコレート 	Schokolade
+コーヒー 	Kaffee
+えいご 	Englisch
+にほんご 	Japanisch
+... ご 	... Sprache
+テレホンカード 	Telefonkarte
+シャープペンシル 	Druckbleistift, Drehbleistift 
+なん, nani, なに 	was
+これ 	dieses hier bei mir
+それ 	dieses da bei dir
+あれ 	jenes dort drüben
+この 	dieses hier, Gegenstand
+その 	dieses da, Gegenstand
+あの 	jenes dort, Gegenstand 
+そう 	so
+ちがいます 	Nein,_so ist es nicht.
+そう です か 	Ach so,_ich verstehe.
+どうぞ 	Bitte
+どうも 	Danke
+どうも ありがとう ございます 	Vielen Dank
+こちら こそ よろしく 	Ganz meinerseits., Es freut mich auch., (als Antwort auf どうぞ　よろしく (doozo yoroshiku))
+これから おせわに なります 	Ich hoffe,_dass wir weiter in Kontakt bleiben., Ich hoffe auf Ihre Unterstützung von jetzt an.
+ほん の きもち です 	Eine kleine Aufmerksamkeit für die neue Nachbarschaft
+
+
+
+

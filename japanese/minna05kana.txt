@@ -1,0 +1,56 @@
+がっこう 	Schule
+スーパー 	Supermarkt
+えき 	Bahnhof
+ひこうき 	Flugzeug
+ふね 	Schiff
+でんしゃ 	Bahn, Zug
+ちかてつ 	U-Bahn, Metro
+しんかんせん 	Shinkansen, Hochgeschwindigkeitszug
+バス 	Bus
+タクシー 	Taxi
+じてんしゃ 	Fahrrad
+ひと 	Person, Mensch, Leute
+ともだち 	Freund
+かれ 	Liebhaber, enger Freund
+かのじょ 	Geliebte, enge Freundin
+かぞく 	Familie
+ふつう 	Personenzug
+きゅうこう 	Schnellzug
+とっきゅう 	Expresszug
+... ばんせん 	... Bahnsteig, Gleis ... 
+いきます 	gehen, fahren, fliegen 	(1) itte 	5 	1 	2
+きます 	kommen 	(1) kite 	5 	1 	2
+かえります 	zurückkehren, nach Hause gehen 	(1) kaette 	5 	1 	2 
+なんがつ 	welcher Monat
+なん にち 	welcher Tag, wie viele Tage
+いつ 	wann 
+おおさかじょう 	Oosaka Schloss, Burg von Oosaka 
+せんしゅう 	letzte Woche
+こんしゅう 	diese Woche
+らいしゅう 	nächste Woche
+せんげつ 	letzten Monat
+こんげつ 	diesen Monat
+らいげつ 	nächsten Monat
+きょねん 	letztes Jahr
+ことし 	dieses Jahr
+らいねん 	nächstes Jahr
+ついたち 	1. des Monats
+ふつか 	2. des Monats, zwei Tage
+みっか 	3. des Monats, drei Tage
+よっか 	4. des Monats, vier Tage
+いつか 	5. des Monats, fünf Tage
+むいか 	6. des Monats, sechs Tage
+なのか 	7. des Monats, sieben Tage
+ようか 	8. des Monats, acht Tage
+ここのか 	9. des Monats, neun Tage
+とおか 	10. des Monats, zehn Tage
+じゅうよっか 	14. des Monats, vierzehn Tage
+はつか 	20. des Monats, zwanzig Tage
+にじゅうよっか 	24. des Monats, vierundzwanzig Tage
+... にち 	... des Monats, ... Tage
+たんじょうび 	Geburtstag 
+どう いたしまして 	Gern geschehen, Keine Ursache
+どこ も いきません 	Ich gehe nirgendwohin 
+あるいて 	zu Fuß0
+ひとり で 	alleine0
+つぎ の 	nächster, nächste, nächstes0 

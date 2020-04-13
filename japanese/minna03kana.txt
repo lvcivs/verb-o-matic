@@ -1,0 +1,44 @@
+きょうしつ 	Unterrichtsraum
+しょくどう 	Speisesaal, Kantine
+じむしょ 	Büro
+かいぎしつ 	Konferenzraum
+うけつけ 	Rezeption, Anmeldung
+ロビー 	Lobby
+へや 	Zimmer
+トイレ, おてあらい 	Toilette, WC
+かいだん 	Treppe
+エレベーター 	Lift, Aufzug
+エスカレーター 	Rolltreppe
+くに 	Land, Heimatland
+かいしゃ 	Firma
+うち 	Haus, Zuhause
+でんわ 	Telefon, Anruf
+くつ 	Schuhe
+ネクタイ 	Schlips
+ワイン 	Wein
+たばこ 	Zigaretten, Tabak
+うりば 	Verkaufsabteilung, Kaufhausabteilung
+ちか 	Untergeschoss
+... かい 	... te Etage
+えん 	Yen 
+どこ 	wo
+なんがい 	welche Etage
+いくら 	wie viel Geld
+どちら 	wo, höflich 
+ここ 	hier
+そこ 	dort
+あそこ 	dort drüben
+こちら 	hier, dies hier, höflich
+そちら 	dort, höflich
+あちら 	dort hinten, höflich 
+イタリア 	Italien
+スイス 	Schweiz 
+ひゃく 	hundert
+せん 	tausend
+まん 	zehntausend 
+すみません 	Entschuldigung, Verzeihung
+お みせて ください 	Zeigen Sie mir bitte
+お ください 	Geben Sie mir bitte
+
+
+
