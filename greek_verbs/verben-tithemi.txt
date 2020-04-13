@@ -22,7 +22,7 @@
 τιθέντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	τίθημι ‘setzen, stellen, legen’
 τιθεῖσα	part. pres. act. nom. sg. f.	τίθημι ‘setzen, stellen, legen’
 τιθείσης	part. pres. act. gen. sg. f.	τίθημι ‘setzen, stellen, legen’
-τιθέν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	τίθημι ‘setzen, stellen, legen’
+τιθέν	part. pres. act. nom. sg. n.	τίθημι ‘setzen, stellen, legen’
 τίθεμαι	1. pers. sg. pres. ind. med-pass.	τίθημι ‘setzen, stellen, legen’
 τίθεσαι	2. pers. sg. pres. ind. med-pass.	τίθημι ‘setzen, stellen, legen’
 τιθῶμαι	1. pers. sg. pres. conj. med-pass.	τίθημι ‘setzen, stellen, legen’

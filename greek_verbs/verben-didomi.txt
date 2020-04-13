@@ -22,7 +22,7 @@
 διδόντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	δίδωμι ‘geben’
 διδοῦσα	part. pres. act. nom. sg. f.	δίδωμι ‘geben’
 διδούσης	part. pres. act. gen. sg. f.	δίδωμι ‘geben’
-διδόν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	δίδωμι ‘geben’
+διδόν	part. pres. act. nom. sg. n.	δίδωμι ‘geben’
 δίδομαι	1. pers. sg. pres. ind. med-pass.	δίδωμι ‘geben’
 δίδοσαι	2. pers. sg. pres. ind. med-pass.	δίδωμι ‘geben’
 διδῶμαι	1. pers. sg. pres. subj. med-pass.	δίδωμι ‘geben’

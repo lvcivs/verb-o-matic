@@ -125,7 +125,6 @@
 			<div class="morphoBox" title="partVoice" onClick="selectMorpho(this)">pass.</div>
 		</td>
 		<td>
-			<div class="morphoBox" title="cas" onClick="selectMorpho(this)">dat.</div>
 		</td>
 		<td>
 		</td>
@@ -141,7 +140,6 @@
 			<div class="morphoBox" title="partVoice" onClick="selectMorpho(this)">med-pass.</div>
 		</td>
 		<td>
-			<div class="morphoBox" title="cas" onClick="selectMorpho(this)">acc.</div>
 		</td>
 		<td>
 		</td>
