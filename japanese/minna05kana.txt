@@ -51,6 +51,6 @@
 たんじょうび 	Geburtstag 
 どう いたしまして 	Gern geschehen, Keine Ursache
 どこ も いきません 	Ich gehe nirgendwohin 
-あるいて 	zu Fuß0
-ひとり で 	alleine0
-つぎ の 	nächster, nächste, nächstes0 
+あるいて 	zu Fuß
+ひとり で 	alleine
+つぎ の 	nächster, nächste, nächstes
