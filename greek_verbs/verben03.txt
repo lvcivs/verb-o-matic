@@ -9,4 +9,4 @@
 εἶναι	inf. pres. act.	εἰμι ‘sein’	εἰμι ‘sein’
 ὤν	part. pres. act. nom. sg. m.	εἰμι ‘sein’
 οὔσα	part. pres. act. nom. sg. f.	εἰμι ‘sein’
-ὄν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	εἰμι ‘sein’
+ὄν	part. pres. act. nom. sg. n.	εἰμι ‘sein’

@@ -18,7 +18,7 @@
 διδῶμαι	1. pers. sg. pres. subj. med-pass.	δίδωμι ‘geben’
 διδῶμεν	1. pers. pl. pres. subj. act.	δίδωμι ‘geben’
 διδόμενος	part. pres. med-pass. nom. sg. m.	δίδωμι ‘geben’
-διδόν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	δίδωμι ‘geben’
+διδόν	part. pres. act. nom. sg. n.	δίδωμι ‘geben’
 διδόναι	inf. pres. act.	δίδωμι ‘geben’
 διδόντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	δίδωμι ‘geben’
 διδοῖεν	3. pers. pl. pres. opt. act.	δίδωμι ‘geben’

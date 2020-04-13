@@ -14,7 +14,7 @@
 ποιεῖν	inf. pres. act.	ποιέω ‘machen’
 ποιῶν	part. pres. act. nom. sg. m.	ποιέω ‘machen’
 ποιοῦσα	part. pres. act. nom. sg. f.	ποιέω ‘machen’
-ποιοῦν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	ποιέω ‘machen’
+ποιοῦν	part. pres. act. nom. sg. n.	ποιέω ‘machen’
 ἐποίουν	1. pers. sg. impf. ind. act., 3. pers. pl. impf. ind. act.	ποιέω ‘machen’
 ἐποίεις	2. pers. sg. impf. ind. act.	ποιέω ‘machen’
 ἐποίει	3. pers. sg. impf. ind. act.	ποιέω ‘machen’

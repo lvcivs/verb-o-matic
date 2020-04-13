@@ -22,7 +22,7 @@
 ἱέντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	ἵημι ‘senden’
 ἱεῖσα	part. pres. act. nom. sg. f.	ἵημι ‘senden’
 ἱείσης	part. pres. act. gen. sg. f.	ἵημι ‘senden’
-ἱέν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	ἵημι ‘senden’
+ἱέν	part. pres. act. nom. sg. n.	ἵημι ‘senden’
 ἵεμαι	1. pers. sg. pres. ind. med-pass.	ἵημι ‘senden’
 ἵεσαι	2. pers. sg. pres. ind. med-pass.	ἵημι ‘senden’
 ἱῶμαι	1. pers. sg. pres. conj. med-pass.	ἵημι ‘senden’

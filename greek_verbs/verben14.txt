@@ -22,7 +22,7 @@
 ἱστάντος	part. pres. act. gen. sg. m., part. pres. act. gen. sg. n.	ἵστημι ‘stellen’
 ἱστᾶσα	part. pres. act. nom. sg. f.	ἵστημι ‘stellen’
 ἱστάσης	part. pres. act. gen. sg. f.	ἵστημι ‘stellen’
-ἱστάν	part. pres. act. nom. sg. n., part. pres. act. acc. sg. n.	ἵστημι ‘stellen’
+ἱστάν	part. pres. act. nom. sg. n.	ἵστημι ‘stellen’
 ἵσταμαι	1. pers. sg. pres. ind. med-pass.	ἵστημι ‘stellen’
 ἵστασαι	2. pers. sg. pres. ind. med-pass.	ἵστημι ‘stellen’
 ἱστῶμαι	1. pers. sg. pres. conj. med-pass.	ἵστημι ‘stellen’
