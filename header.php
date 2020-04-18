@@ -35,7 +35,7 @@ This file is part of verb-o-matic. Copyright 2008 Luzius Thöny.
 
 
 <div id="container">
-<div id="top"><a href="index.php"><img src="logo.png" alt="logo"></a></div>
+<div id="top"><a href="index.php"><img src="logo_wide.png" alt="logo"></a></div>
 
 <div id="main">
 
